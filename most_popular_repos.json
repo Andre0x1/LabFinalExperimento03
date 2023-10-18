@@ -1,0 +1,6002 @@
+[
+    {
+        "owner": "freeCodeCamp",
+        "name": "freeCodeCamp",
+        "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+        "stars": 375794
+    },
+    {
+        "owner": "EbookFoundation",
+        "name": "free-programming-books",
+        "html_url": "https://github.com/EbookFoundation/free-programming-books",
+        "stars": 300088
+    },
+    {
+        "owner": "sindresorhus",
+        "name": "awesome",
+        "html_url": "https://github.com/sindresorhus/awesome",
+        "stars": 272517
+    },
+    {
+        "owner": "jwasham",
+        "name": "coding-interview-university",
+        "html_url": "https://github.com/jwasham/coding-interview-university",
+        "stars": 269177
+    },
+    {
+        "owner": "996icu",
+        "name": "996.ICU",
+        "html_url": "https://github.com/996icu/996.ICU",
+        "stars": 267985
+    },
+    {
+        "owner": "public-apis",
+        "name": "public-apis",
+        "html_url": "https://github.com/public-apis/public-apis",
+        "stars": 259542
+    },
+    {
+        "owner": "kamranahmedse",
+        "name": "developer-roadmap",
+        "html_url": "https://github.com/kamranahmedse/developer-roadmap",
+        "stars": 252774
+    },
+    {
+        "owner": "donnemartin",
+        "name": "system-design-primer",
+        "html_url": "https://github.com/donnemartin/system-design-primer",
+        "stars": 231347
+    },
+    {
+        "owner": "codecrafters-io",
+        "name": "build-your-own-x",
+        "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+        "stars": 220997
+    },
+    {
+        "owner": "facebook",
+        "name": "react",
+        "html_url": "https://github.com/facebook/react",
+        "stars": 214051
+    },
+    {
+        "owner": "vuejs",
+        "name": "vue",
+        "html_url": "https://github.com/vuejs/vue",
+        "stars": 205493
+    },
+    {
+        "owner": "vinta",
+        "name": "awesome-python",
+        "html_url": "https://github.com/vinta/awesome-python",
+        "stars": 183351
+    },
+    {
+        "owner": "tensorflow",
+        "name": "tensorflow",
+        "html_url": "https://github.com/tensorflow/tensorflow",
+        "stars": 178176
+    },
+    {
+        "owner": "trekhleb",
+        "name": "javascript-algorithms",
+        "html_url": "https://github.com/trekhleb/javascript-algorithms",
+        "stars": 176390
+    },
+    {
+        "owner": "getify",
+        "name": "You-Dont-Know-JS",
+        "html_url": "https://github.com/getify/You-Dont-Know-JS",
+        "stars": 172072
+    },
+    {
+        "owner": "TheAlgorithms",
+        "name": "Python",
+        "html_url": "https://github.com/TheAlgorithms/Python",
+        "stars": 170843
+    },
+    {
+        "owner": "CyC2018",
+        "name": "CS-Notes",
+        "html_url": "https://github.com/CyC2018/CS-Notes",
+        "stars": 167539
+    },
+    {
+        "owner": "twbs",
+        "name": "bootstrap",
+        "html_url": "https://github.com/twbs/bootstrap",
+        "stars": 165552
+    },
+    {
+        "owner": "ohmyzsh",
+        "name": "ohmyzsh",
+        "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+        "stars": 163081
+    },
+    {
+        "owner": "torvalds",
+        "name": "linux",
+        "html_url": "https://github.com/torvalds/linux",
+        "stars": 158775
+    },
+    {
+        "owner": "flutter",
+        "name": "flutter",
+        "html_url": "https://github.com/flutter/flutter",
+        "stars": 157254
+    },
+    {
+        "owner": "github",
+        "name": "gitignore",
+        "html_url": "https://github.com/github/gitignore",
+        "stars": 152109
+    },
+    {
+        "owner": "microsoft",
+        "name": "vscode",
+        "html_url": "https://github.com/microsoft/vscode",
+        "stars": 151902
+    },
+    {
+        "owner": "awesome-selfhosted",
+        "name": "awesome-selfhosted",
+        "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+        "stars": 151473
+    },
+    {
+        "owner": "Significant-Gravitas",
+        "name": "AutoGPT",
+        "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "stars": 150476
+    },
+    {
+        "owner": "ossu",
+        "name": "computer-science",
+        "html_url": "https://github.com/ossu/computer-science",
+        "stars": 150017
+    },
+    {
+        "owner": "jackfrued",
+        "name": "Python-100-Days",
+        "html_url": "https://github.com/jackfrued/Python-100-Days",
+        "stars": 141038
+    },
+    {
+        "owner": "jlevy",
+        "name": "the-art-of-command-line",
+        "html_url": "https://github.com/jlevy/the-art-of-command-line",
+        "stars": 139873
+    },
+    {
+        "owner": "airbnb",
+        "name": "javascript",
+        "html_url": "https://github.com/airbnb/javascript",
+        "stars": 138511
+    },
+    {
+        "owner": "Snailclimb",
+        "name": "JavaGuide",
+        "html_url": "https://github.com/Snailclimb/JavaGuide",
+        "stars": 137813
+    },
+    {
+        "owner": "ytdl-org",
+        "name": "youtube-dl",
+        "html_url": "https://github.com/ytdl-org/youtube-dl",
+        "stars": 123868
+    },
+    {
+        "owner": "labuladong",
+        "name": "fucking-algorithm",
+        "html_url": "https://github.com/labuladong/fucking-algorithm",
+        "stars": 120102
+    },
+    {
+        "owner": "practical-tutorials",
+        "name": "project-based-learning",
+        "html_url": "https://github.com/practical-tutorials/project-based-learning",
+        "stars": 117471
+    },
+    {
+        "owner": "30-seconds",
+        "name": "30-seconds-of-code",
+        "html_url": "https://github.com/30-seconds/30-seconds-of-code",
+        "stars": 115912
+    },
+    {
+        "owner": "golang",
+        "name": "go",
+        "html_url": "https://github.com/golang/go",
+        "stars": 114955
+    },
+    {
+        "owner": "huggingface",
+        "name": "transformers",
+        "html_url": "https://github.com/huggingface/transformers",
+        "stars": 113142
+    },
+    {
+        "owner": "vercel",
+        "name": "next.js",
+        "html_url": "https://github.com/vercel/next.js",
+        "stars": 112929
+    },
+    {
+        "owner": "facebook",
+        "name": "react-native",
+        "html_url": "https://github.com/facebook/react-native",
+        "stars": 112352
+    },
+    {
+        "owner": "avelino",
+        "name": "awesome-go",
+        "html_url": "https://github.com/avelino/awesome-go",
+        "stars": 109794
+    },
+    {
+        "owner": "electron",
+        "name": "electron",
+        "html_url": "https://github.com/electron/electron",
+        "stars": 109283
+    },
+    {
+        "owner": "trimstray",
+        "name": "the-book-of-secret-knowledge",
+        "html_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+        "stars": 109240
+    },
+    {
+        "owner": "d3",
+        "name": "d3",
+        "html_url": "https://github.com/d3/d3",
+        "stars": 106407
+    },
+    {
+        "owner": "justjavac",
+        "name": "free-programming-books-zh_CN",
+        "html_url": "https://github.com/justjavac/free-programming-books-zh_CN",
+        "stars": 105338
+    },
+    {
+        "owner": "AUTOMATIC1111",
+        "name": "stable-diffusion-webui",
+        "html_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+        "stars": 105313
+    },
+    {
+        "owner": "kubernetes",
+        "name": "kubernetes",
+        "html_url": "https://github.com/kubernetes/kubernetes",
+        "stars": 102216
+    },
+    {
+        "owner": "axios",
+        "name": "axios",
+        "html_url": "https://github.com/axios/axios",
+        "stars": 102138
+    },
+    {
+        "owner": "facebook",
+        "name": "create-react-app",
+        "html_url": "https://github.com/facebook/create-react-app",
+        "stars": 100890
+    },
+    {
+        "owner": "nodejs",
+        "name": "node",
+        "html_url": "https://github.com/nodejs/node",
+        "stars": 98530
+    },
+    {
+        "owner": "microsoft",
+        "name": "PowerToys",
+        "html_url": "https://github.com/microsoft/PowerToys",
+        "stars": 97068
+    },
+    {
+        "owner": "yangshun",
+        "name": "tech-interview-handbook",
+        "html_url": "https://github.com/yangshun/tech-interview-handbook",
+        "stars": 96084
+    },
+    {
+        "owner": "mrdoob",
+        "name": "three.js",
+        "html_url": "https://github.com/mrdoob/three.js",
+        "stars": 94946
+    },
+    {
+        "owner": "microsoft",
+        "name": "TypeScript",
+        "html_url": "https://github.com/microsoft/TypeScript",
+        "stars": 94596
+    },
+    {
+        "owner": "goldbergyoni",
+        "name": "nodebestpractices",
+        "html_url": "https://github.com/goldbergyoni/nodebestpractices",
+        "stars": 93256
+    },
+    {
+        "owner": "Genymobile",
+        "name": "scrcpy",
+        "html_url": "https://github.com/Genymobile/scrcpy",
+        "stars": 92169
+    },
+    {
+        "owner": "denoland",
+        "name": "deno",
+        "html_url": "https://github.com/denoland/deno",
+        "stars": 91115
+    },
+    {
+        "owner": "microsoft",
+        "name": "terminal",
+        "html_url": "https://github.com/microsoft/terminal",
+        "stars": 90926
+    },
+    {
+        "owner": "angular",
+        "name": "angular",
+        "html_url": "https://github.com/angular/angular",
+        "stars": 90639
+    },
+    {
+        "owner": "f",
+        "name": "awesome-chatgpt-prompts",
+        "html_url": "https://github.com/f/awesome-chatgpt-prompts",
+        "stars": 90343
+    },
+    {
+        "owner": "mui",
+        "name": "material-ui",
+        "html_url": "https://github.com/mui/material-ui",
+        "stars": 89188
+    },
+    {
+        "owner": "ant-design",
+        "name": "ant-design",
+        "html_url": "https://github.com/ant-design/ant-design",
+        "stars": 87906
+    },
+    {
+        "owner": "ryanmcdermott",
+        "name": "clean-code-javascript",
+        "html_url": "https://github.com/ryanmcdermott/clean-code-javascript",
+        "stars": 86100
+    },
+    {
+        "owner": "rust-lang",
+        "name": "rust",
+        "html_url": "https://github.com/rust-lang/rust",
+        "stars": 86045
+    },
+    {
+        "owner": "puppeteer",
+        "name": "puppeteer",
+        "html_url": "https://github.com/puppeteer/puppeteer",
+        "stars": 84716
+    },
+    {
+        "owner": "PanJiaChen",
+        "name": "vue-element-admin",
+        "html_url": "https://github.com/PanJiaChen/vue-element-admin",
+        "stars": 84196
+    },
+    {
+        "owner": "iluwatar",
+        "name": "java-design-patterns",
+        "html_url": "https://github.com/iluwatar/java-design-patterns",
+        "stars": 84116
+    },
+    {
+        "owner": "storybookjs",
+        "name": "storybook",
+        "html_url": "https://github.com/storybookjs/storybook",
+        "stars": 80589
+    },
+    {
+        "owner": "nvbn",
+        "name": "thefuck",
+        "html_url": "https://github.com/nvbn/thefuck",
+        "stars": 79629
+    },
+    {
+        "owner": "animate-css",
+        "name": "animate.css",
+        "html_url": "https://github.com/animate-css/animate.css",
+        "stars": 78686
+    },
+    {
+        "owner": "microsoft",
+        "name": "Web-Dev-For-Beginners",
+        "html_url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+        "stars": 77037
+    },
+    {
+        "owner": "papers-we-love",
+        "name": "papers-we-love",
+        "html_url": "https://github.com/papers-we-love/papers-we-love",
+        "stars": 76946
+    },
+    {
+        "owner": "gothinkster",
+        "name": "realworld",
+        "html_url": "https://github.com/gothinkster/realworld",
+        "stars": 76550
+    },
+    {
+        "owner": "521xueweihan",
+        "name": "HelloGitHub",
+        "html_url": "https://github.com/521xueweihan/HelloGitHub",
+        "stars": 76373
+    },
+    {
+        "owner": "tensorflow",
+        "name": "models",
+        "html_url": "https://github.com/tensorflow/models",
+        "stars": 76125
+    },
+    {
+        "owner": "godotengine",
+        "name": "godot",
+        "html_url": "https://github.com/godotengine/godot",
+        "stars": 76018
+    },
+    {
+        "owner": "laravel",
+        "name": "laravel",
+        "html_url": "https://github.com/laravel/laravel",
+        "stars": 74922
+    },
+    {
+        "owner": "ripienaar",
+        "name": "free-for-dev",
+        "html_url": "https://github.com/ripienaar/free-for-dev",
+        "stars": 74912
+    },
+    {
+        "owner": "MisterBooo",
+        "name": "LeetCodeAnimation",
+        "html_url": "https://github.com/MisterBooo/LeetCodeAnimation",
+        "stars": 74093
+    },
+    {
+        "owner": "django",
+        "name": "django",
+        "html_url": "https://github.com/django/django",
+        "stars": 73454
+    },
+    {
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "html_url": "https://github.com/mtdvio/every-programmer-should-know",
+        "stars": 73127
+    },
+    {
+        "owner": "sveltejs",
+        "name": "svelte",
+        "html_url": "https://github.com/sveltejs/svelte",
+        "stars": 73021
+    },
+    {
+        "owner": "tonsky",
+        "name": "FiraCode",
+        "html_url": "https://github.com/tonsky/FiraCode",
+        "stars": 72721
+    },
+    {
+        "owner": "fatedier",
+        "name": "frp",
+        "html_url": "https://github.com/fatedier/frp",
+        "stars": 72622
+    },
+    {
+        "owner": "tailwindlabs",
+        "name": "tailwindcss",
+        "html_url": "https://github.com/tailwindlabs/tailwindcss",
+        "stars": 72602
+    },
+    {
+        "owner": "FortAwesome",
+        "name": "Font-Awesome",
+        "html_url": "https://github.com/FortAwesome/Font-Awesome",
+        "stars": 72326
+    },
+    {
+        "owner": "gin-gonic",
+        "name": "gin",
+        "html_url": "https://github.com/gin-gonic/gin",
+        "stars": 71933
+    },
+    {
+        "owner": "doocs",
+        "name": "advanced-java",
+        "html_url": "https://github.com/doocs/advanced-java",
+        "stars": 71907
+    },
+    {
+        "owner": "bitcoin",
+        "name": "bitcoin",
+        "html_url": "https://github.com/bitcoin/bitcoin",
+        "stars": 71767
+    },
+    {
+        "owner": "opencv",
+        "name": "opencv",
+        "html_url": "https://github.com/opencv/opencv",
+        "stars": 71622
+    },
+    {
+        "owner": "pytorch",
+        "name": "pytorch",
+        "html_url": "https://github.com/pytorch/pytorch",
+        "stars": 71548
+    },
+    {
+        "owner": "nvm-sh",
+        "name": "nvm",
+        "html_url": "https://github.com/nvm-sh/nvm",
+        "stars": 70717
+    },
+    {
+        "owner": "macrozheng",
+        "name": "mall",
+        "html_url": "https://github.com/macrozheng/mall",
+        "stars": 70603
+    },
+    {
+        "owner": "neovim",
+        "name": "neovim",
+        "html_url": "https://github.com/neovim/neovim",
+        "stars": 70058
+    },
+    {
+        "owner": "Hack-with-Github",
+        "name": "Awesome-Hacking",
+        "html_url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+        "stars": 69896
+    },
+    {
+        "owner": "vuejs",
+        "name": "awesome-vue",
+        "html_url": "https://github.com/vuejs/awesome-vue",
+        "stars": 69642
+    },
+    {
+        "owner": "spring-projects",
+        "name": "spring-boot",
+        "html_url": "https://github.com/spring-projects/spring-boot",
+        "stars": 69634
+    },
+    {
+        "owner": "gohugoio",
+        "name": "hugo",
+        "html_url": "https://github.com/gohugoio/hugo",
+        "stars": 69346
+    },
+    {
+        "owner": "tauri-apps",
+        "name": "tauri",
+        "html_url": "https://github.com/tauri-apps/tauri",
+        "stars": 69177
+    },
+    {
+        "owner": "iptv-org",
+        "name": "iptv",
+        "html_url": "https://github.com/iptv-org/iptv",
+        "stars": 69018
+    },
+    {
+        "owner": "typicode",
+        "name": "json-server",
+        "html_url": "https://github.com/typicode/json-server",
+        "stars": 68799
+    },
+    {
+        "owner": "florinpop17",
+        "name": "app-ideas",
+        "html_url": "https://github.com/florinpop17/app-ideas",
+        "stars": 67351
+    },
+    {
+        "owner": "moby",
+        "name": "moby",
+        "html_url": "https://github.com/moby/moby",
+        "stars": 66757
+    },
+    {
+        "owner": "thedaviddias",
+        "name": "Front-End-Checklist",
+        "html_url": "https://github.com/thedaviddias/Front-End-Checklist",
+        "stars": 66171
+    },
+    {
+        "owner": "GrowingGit",
+        "name": "GitHub-Chinese-Top-Charts",
+        "html_url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+        "stars": 65580
+    },
+    {
+        "owner": "netdata",
+        "name": "netdata",
+        "html_url": "https://github.com/netdata/netdata",
+        "stars": 65435
+    },
+    {
+        "owner": "elastic",
+        "name": "elasticsearch",
+        "html_url": "https://github.com/elastic/elasticsearch",
+        "stars": 65363
+    },
+    {
+        "owner": "hakimel",
+        "name": "reveal.js",
+        "html_url": "https://github.com/hakimel/reveal.js",
+        "stars": 64684
+    },
+    {
+        "owner": "pallets",
+        "name": "flask",
+        "html_url": "https://github.com/pallets/flask",
+        "stars": 64574
+    },
+    {
+        "owner": "langchain-ai",
+        "name": "langchain",
+        "html_url": "https://github.com/langchain-ai/langchain",
+        "stars": 64393
+    },
+    {
+        "owner": "apple",
+        "name": "swift",
+        "html_url": "https://github.com/apple/swift",
+        "stars": 64215
+    },
+    {
+        "owner": "oven-sh",
+        "name": "bun",
+        "html_url": "https://github.com/oven-sh/bun",
+        "stars": 64152
+    },
+    {
+        "owner": "jaywcjlove",
+        "name": "awesome-mac",
+        "html_url": "https://github.com/jaywcjlove/awesome-mac",
+        "stars": 64056
+    },
+    {
+        "owner": "base-org",
+        "name": "node",
+        "html_url": "https://github.com/base-org/node",
+        "stars": 63744
+    },
+    {
+        "owner": "webpack",
+        "name": "webpack",
+        "html_url": "https://github.com/webpack/webpack",
+        "stars": 63594
+    },
+    {
+        "owner": "home-assistant",
+        "name": "core",
+        "html_url": "https://github.com/home-assistant/core",
+        "stars": 63376
+    },
+    {
+        "owner": "tiangolo",
+        "name": "fastapi",
+        "html_url": "https://github.com/tiangolo/fastapi",
+        "stars": 63370
+    },
+    {
+        "owner": "coder",
+        "name": "code-server",
+        "html_url": "https://github.com/coder/code-server",
+        "stars": 62461
+    },
+    {
+        "owner": "Fndroid",
+        "name": "clash_for_windows_pkg",
+        "html_url": "https://github.com/Fndroid/clash_for_windows_pkg",
+        "stars": 62174
+    },
+    {
+        "owner": "expressjs",
+        "name": "express",
+        "html_url": "https://github.com/expressjs/express",
+        "stars": 62062
+    },
+    {
+        "owner": "chartjs",
+        "name": "Chart.js",
+        "html_url": "https://github.com/chartjs/Chart.js",
+        "stars": 62013
+    },
+    {
+        "owner": "mermaid-js",
+        "name": "mermaid",
+        "html_url": "https://github.com/mermaid-js/mermaid",
+        "stars": 61771
+    },
+    {
+        "owner": "redis",
+        "name": "redis",
+        "html_url": "https://github.com/redis/redis",
+        "stars": 61770
+    },
+    {
+        "owner": "protocolbuffers",
+        "name": "protobuf",
+        "html_url": "https://github.com/protocolbuffers/protobuf",
+        "stars": 61012
+    },
+    {
+        "owner": "josephmisiti",
+        "name": "awesome-machine-learning",
+        "html_url": "https://github.com/josephmisiti/awesome-machine-learning",
+        "stars": 60998
+    },
+    {
+        "owner": "resume",
+        "name": "resume.github.com",
+        "html_url": "https://github.com/resume/resume.github.com",
+        "stars": 60791
+    },
+    {
+        "owner": "Developer-Y",
+        "name": "cs-video-courses",
+        "html_url": "https://github.com/Developer-Y/cs-video-courses",
+        "stars": 60693
+    },
+    {
+        "owner": "CompVis",
+        "name": "stable-diffusion",
+        "html_url": "https://github.com/CompVis/stable-diffusion",
+        "stars": 60545
+    },
+    {
+        "owner": "kdn251",
+        "name": "interviews",
+        "html_url": "https://github.com/kdn251/interviews",
+        "stars": 60475
+    },
+    {
+        "owner": "vitejs",
+        "name": "vite",
+        "html_url": "https://github.com/vitejs/vite",
+        "stars": 60257
+    },
+    {
+        "owner": "nestjs",
+        "name": "nest",
+        "html_url": "https://github.com/nestjs/nest",
+        "stars": 60244
+    },
+    {
+        "owner": "reduxjs",
+        "name": "redux",
+        "html_url": "https://github.com/reduxjs/redux",
+        "stars": 59974
+    },
+    {
+        "owner": "twitter",
+        "name": "the-algorithm",
+        "html_url": "https://github.com/twitter/the-algorithm",
+        "stars": 59964
+    },
+    {
+        "owner": "anuraghazra",
+        "name": "github-readme-stats",
+        "html_url": "https://github.com/anuraghazra/github-readme-stats",
+        "stars": 59926
+    },
+    {
+        "owner": "atom",
+        "name": "atom",
+        "html_url": "https://github.com/atom/atom",
+        "stars": 59646
+    },
+    {
+        "owner": "keras-team",
+        "name": "keras",
+        "html_url": "https://github.com/keras-team/keras",
+        "stars": 59503
+    },
+    {
+        "owner": "adam-p",
+        "name": "markdown-here",
+        "html_url": "https://github.com/adam-p/markdown-here",
+        "stars": 59179
+    },
+    {
+        "owner": "socketio",
+        "name": "socket.io",
+        "html_url": "https://github.com/socketio/socket.io",
+        "stars": 59104
+    },
+    {
+        "owner": "leonardomso",
+        "name": "33-js-concepts",
+        "html_url": "https://github.com/leonardomso/33-js-concepts",
+        "stars": 59104
+    },
+    {
+        "owner": "angular",
+        "name": "angular.js",
+        "html_url": "https://github.com/angular/angular.js",
+        "stars": 59075
+    },
+    {
+        "owner": "ansible",
+        "name": "ansible",
+        "html_url": "https://github.com/ansible/ansible",
+        "stars": 58834
+    },
+    {
+        "owner": "enaqx",
+        "name": "awesome-react",
+        "html_url": "https://github.com/enaqx/awesome-react",
+        "stars": 58569
+    },
+    {
+        "owner": "xingshaocheng",
+        "name": "architect-awesome",
+        "html_url": "https://github.com/xingshaocheng/architect-awesome",
+        "stars": 58557
+    },
+    {
+        "owner": "bregman-arie",
+        "name": "devops-exercises",
+        "html_url": "https://github.com/bregman-arie/devops-exercises",
+        "stars": 58483
+    },
+    {
+        "owner": "DopplerHQ",
+        "name": "awesome-interview-questions",
+        "html_url": "https://github.com/DopplerHQ/awesome-interview-questions",
+        "stars": 58195
+    },
+    {
+        "owner": "h5bp",
+        "name": "Front-end-Developer-Interview-Questions",
+        "html_url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+        "stars": 57958
+    },
+    {
+        "owner": "jquery",
+        "name": "jquery",
+        "html_url": "https://github.com/jquery/jquery",
+        "stars": 57873
+    },
+    {
+        "owner": "supabase",
+        "name": "supabase",
+        "html_url": "https://github.com/supabase/supabase",
+        "stars": 57842
+    },
+    {
+        "owner": "kelseyhightower",
+        "name": "nocode",
+        "html_url": "https://github.com/kelseyhightower/nocode",
+        "stars": 57831
+    },
+    {
+        "owner": "fighting41love",
+        "name": "funNLP",
+        "html_url": "https://github.com/fighting41love/funNLP",
+        "stars": 57759
+    },
+    {
+        "owner": "lodash",
+        "name": "lodash",
+        "html_url": "https://github.com/lodash/lodash",
+        "stars": 57652
+    },
+    {
+        "owner": "yt-dlp",
+        "name": "yt-dlp",
+        "html_url": "https://github.com/yt-dlp/yt-dlp",
+        "stars": 57565
+    },
+    {
+        "owner": "grafana",
+        "name": "grafana",
+        "html_url": "https://github.com/grafana/grafana",
+        "stars": 57493
+    },
+    {
+        "owner": "MunGell",
+        "name": "awesome-for-beginners",
+        "html_url": "https://github.com/MunGell/awesome-for-beginners",
+        "stars": 57405
+    },
+    {
+        "owner": "shadowsocks",
+        "name": "shadowsocks-windows",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows",
+        "stars": 57057
+    },
+    {
+        "owner": "lydiahallie",
+        "name": "javascript-questions",
+        "html_url": "https://github.com/lydiahallie/javascript-questions",
+        "stars": 56880
+    },
+    {
+        "owner": "strapi",
+        "name": "strapi",
+        "html_url": "https://github.com/strapi/strapi",
+        "stars": 56548
+    },
+    {
+        "owner": "apache",
+        "name": "echarts",
+        "html_url": "https://github.com/apache/echarts",
+        "stars": 56533
+    },
+    {
+        "owner": "Anduin2017",
+        "name": "HowToCook",
+        "html_url": "https://github.com/Anduin2017/HowToCook",
+        "stars": 56343
+    },
+    {
+        "owner": "awesomedata",
+        "name": "awesome-public-datasets",
+        "html_url": "https://github.com/awesomedata/awesome-public-datasets",
+        "stars": 56175
+    },
+    {
+        "owner": "excalidraw",
+        "name": "excalidraw",
+        "html_url": "https://github.com/excalidraw/excalidraw",
+        "stars": 56144
+    },
+    {
+        "owner": "python",
+        "name": "cpython",
+        "html_url": "https://github.com/python/cpython",
+        "stars": 56132
+    },
+    {
+        "owner": "scikit-learn",
+        "name": "scikit-learn",
+        "html_url": "https://github.com/scikit-learn/scikit-learn",
+        "stars": 56104
+    },
+    {
+        "owner": "chrislgarry",
+        "name": "Apollo-11",
+        "html_url": "https://github.com/chrislgarry/Apollo-11",
+        "stars": 55550
+    },
+    {
+        "owner": "microsoft",
+        "name": "playwright",
+        "html_url": "https://github.com/microsoft/playwright",
+        "stars": 55506
+    },
+    {
+        "owner": "hoppscotch",
+        "name": "hoppscotch",
+        "html_url": "https://github.com/hoppscotch/hoppscotch",
+        "stars": 55413
+    },
+    {
+        "owner": "h5bp",
+        "name": "html5-boilerplate",
+        "html_url": "https://github.com/h5bp/html5-boilerplate",
+        "stars": 55307
+    },
+    {
+        "owner": "gatsbyjs",
+        "name": "gatsby",
+        "html_url": "https://github.com/gatsbyjs/gatsby",
+        "stars": 54760
+    },
+    {
+        "owner": "apache",
+        "name": "superset",
+        "html_url": "https://github.com/apache/superset",
+        "stars": 54741
+    },
+    {
+        "owner": "junegunn",
+        "name": "fzf",
+        "html_url": "https://github.com/junegunn/fzf",
+        "stars": 54728
+    },
+    {
+        "owner": "syncthing",
+        "name": "syncthing",
+        "html_url": "https://github.com/syncthing/syncthing",
+        "stars": 54704
+    },
+    {
+        "owner": "TheAlgorithms",
+        "name": "Java",
+        "html_url": "https://github.com/TheAlgorithms/Java",
+        "stars": 54223
+    },
+    {
+        "owner": "3b1b",
+        "name": "manim",
+        "html_url": "https://github.com/3b1b/manim",
+        "stars": 54111
+    },
+    {
+        "owner": "tesseract-ocr",
+        "name": "tesseract",
+        "html_url": "https://github.com/tesseract-ocr/tesseract",
+        "stars": 53863
+    },
+    {
+        "owner": "microsoft",
+        "name": "ML-For-Beginners",
+        "html_url": "https://github.com/microsoft/ML-For-Beginners",
+        "stars": 53805
+    },
+    {
+        "owner": "ElemeFE",
+        "name": "element",
+        "html_url": "https://github.com/ElemeFE/element",
+        "stars": 53689
+    },
+    {
+        "owner": "rails",
+        "name": "rails",
+        "html_url": "https://github.com/rails/rails",
+        "stars": 53583
+    },
+    {
+        "owner": "bradtraversy",
+        "name": "design-resources-for-developers",
+        "html_url": "https://github.com/bradtraversy/design-resources-for-developers",
+        "stars": 53464
+    },
+    {
+        "owner": "spring-projects",
+        "name": "spring-framework",
+        "html_url": "https://github.com/spring-projects/spring-framework",
+        "stars": 53340
+    },
+    {
+        "owner": "ventoy",
+        "name": "Ventoy",
+        "html_url": "https://github.com/ventoy/Ventoy",
+        "stars": 53290
+    },
+    {
+        "owner": "sindresorhus",
+        "name": "awesome-nodejs",
+        "html_url": "https://github.com/sindresorhus/awesome-nodejs",
+        "stars": 53077
+    },
+    {
+        "owner": "nomic-ai",
+        "name": "gpt4all",
+        "html_url": "https://github.com/nomic-ai/gpt4all",
+        "stars": 52977
+    },
+    {
+        "owner": "azl397985856",
+        "name": "leetcode",
+        "html_url": "https://github.com/azl397985856/leetcode",
+        "stars": 52591
+    },
+    {
+        "owner": "sdmg15",
+        "name": "Best-websites-a-programmer-should-visit",
+        "html_url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+        "stars": 52420
+    },
+    {
+        "owner": "scutan90",
+        "name": "DeepLearning-500-questions",
+        "html_url": "https://github.com/scutan90/DeepLearning-500-questions",
+        "stars": 51677
+    },
+    {
+        "owner": "swisskyrepo",
+        "name": "PayloadsAllTheThings",
+        "html_url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+        "stars": 51378
+    },
+    {
+        "owner": "Eugeny",
+        "name": "tabby",
+        "html_url": "https://github.com/Eugeny/tabby",
+        "stars": 51256
+    },
+    {
+        "owner": "necolas",
+        "name": "normalize.css",
+        "html_url": "https://github.com/necolas/normalize.css",
+        "stars": 51055
+    },
+    {
+        "owner": "remix-run",
+        "name": "react-router",
+        "html_url": "https://github.com/remix-run/react-router",
+        "stars": 51055
+    },
+    {
+        "owner": "ocornut",
+        "name": "imgui",
+        "html_url": "https://github.com/ocornut/imgui",
+        "stars": 50920
+    },
+    {
+        "owner": "Semantic-Org",
+        "name": "Semantic-UI",
+        "html_url": "https://github.com/Semantic-Org/Semantic-UI",
+        "stars": 50789
+    },
+    {
+        "owner": "obsproject",
+        "name": "obs-studio",
+        "html_url": "https://github.com/obsproject/obs-studio",
+        "stars": 50685
+    },
+    {
+        "owner": "psf",
+        "name": "requests",
+        "html_url": "https://github.com/psf/requests",
+        "stars": 50402
+    },
+    {
+        "owner": "prometheus",
+        "name": "prometheus",
+        "html_url": "https://github.com/prometheus/prometheus",
+        "stars": 50207
+    },
+    {
+        "owner": "caddyserver",
+        "name": "caddy",
+        "html_url": "https://github.com/caddyserver/caddy",
+        "stars": 50087
+    },
+    {
+        "owner": "fffaraz",
+        "name": "awesome-cpp",
+        "html_url": "https://github.com/fffaraz/awesome-cpp",
+        "stars": 49602
+    },
+    {
+        "owner": "prakhar1989",
+        "name": "awesome-courses",
+        "html_url": "https://github.com/prakhar1989/awesome-courses",
+        "stars": 49578
+    },
+    {
+        "owner": "d2l-ai",
+        "name": "d2l-zh",
+        "html_url": "https://github.com/d2l-ai/d2l-zh",
+        "stars": 49534
+    },
+    {
+        "owner": "ageitgey",
+        "name": "face_recognition",
+        "html_url": "https://github.com/ageitgey/face_recognition",
+        "stars": 49525
+    },
+    {
+        "owner": "ionic-team",
+        "name": "ionic-framework",
+        "html_url": "https://github.com/ionic-team/ionic-framework",
+        "stars": 49475
+    },
+    {
+        "owner": "localstack",
+        "name": "localstack",
+        "html_url": "https://github.com/localstack/localstack",
+        "stars": 49459
+    },
+    {
+        "owner": "danielmiessler",
+        "name": "SecLists",
+        "html_url": "https://github.com/danielmiessler/SecLists",
+        "stars": 49347
+    },
+    {
+        "owner": "openai",
+        "name": "openai-cookbook",
+        "html_url": "https://github.com/openai/openai-cookbook",
+        "stars": 49160
+    },
+    {
+        "owner": "alacritty",
+        "name": "alacritty",
+        "html_url": "https://github.com/alacritty/alacritty",
+        "stars": 48908
+    },
+    {
+        "owner": "scrapy",
+        "name": "scrapy",
+        "html_url": "https://github.com/scrapy/scrapy",
+        "stars": 48795
+    },
+    {
+        "owner": "Solido",
+        "name": "awesome-flutter",
+        "html_url": "https://github.com/Solido/awesome-flutter",
+        "stars": 48759
+    },
+    {
+        "owner": "google",
+        "name": "material-design-icons",
+        "html_url": "https://github.com/google/material-design-icons",
+        "stars": 48757
+    },
+    {
+        "owner": "binhnguyennus",
+        "name": "awesome-scalability",
+        "html_url": "https://github.com/binhnguyennus/awesome-scalability",
+        "stars": 48707
+    },
+    {
+        "owner": "facebook",
+        "name": "docusaurus",
+        "html_url": "https://github.com/facebook/docusaurus",
+        "stars": 48507
+    },
+    {
+        "owner": "google",
+        "name": "guava",
+        "html_url": "https://github.com/google/guava",
+        "stars": 48405
+    },
+    {
+        "owner": "soimort",
+        "name": "you-get",
+        "html_url": "https://github.com/soimort/you-get",
+        "stars": 48290
+    },
+    {
+        "owner": "rustdesk",
+        "name": "rustdesk",
+        "html_url": "https://github.com/rustdesk/rustdesk",
+        "stars": 48105
+    },
+    {
+        "owner": "CorentinJ",
+        "name": "Real-Time-Voice-Cloning",
+        "html_url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+        "stars": 47999
+    },
+    {
+        "owner": "2dust",
+        "name": "v2rayN",
+        "html_url": "https://github.com/2dust/v2rayN",
+        "stars": 47816
+    },
+    {
+        "owner": "nuxt",
+        "name": "nuxt",
+        "html_url": "https://github.com/nuxt/nuxt",
+        "stars": 47761
+    },
+    {
+        "owner": "git",
+        "name": "git",
+        "html_url": "https://github.com/git/git",
+        "stars": 47580
+    },
+    {
+        "owner": "jgthms",
+        "name": "bulma",
+        "html_url": "https://github.com/jgthms/bulma",
+        "stars": 47572
+    },
+    {
+        "owner": "moment",
+        "name": "moment",
+        "html_url": "https://github.com/moment/moment",
+        "stars": 47548
+    },
+    {
+        "owner": "wasabeef",
+        "name": "awesome-android-ui",
+        "html_url": "https://github.com/wasabeef/awesome-android-ui",
+        "stars": 47531
+    },
+    {
+        "owner": "Dreamacro",
+        "name": "clash",
+        "html_url": "https://github.com/Dreamacro/clash",
+        "stars": 47492
+    },
+    {
+        "owner": "jekyll",
+        "name": "jekyll",
+        "html_url": "https://github.com/jekyll/jekyll",
+        "stars": 47368
+    },
+    {
+        "owner": "ReactiveX",
+        "name": "RxJava",
+        "html_url": "https://github.com/ReactiveX/RxJava",
+        "stars": 47266
+    },
+    {
+        "owner": "deepfakes",
+        "name": "faceswap",
+        "html_url": "https://github.com/deepfakes/faceswap",
+        "stars": 47222
+    },
+    {
+        "owner": "juliangarnier",
+        "name": "anime",
+        "html_url": "https://github.com/juliangarnier/anime",
+        "stars": 47177
+    },
+    {
+        "owner": "Alvin9999",
+        "name": "new-pac",
+        "html_url": "https://github.com/Alvin9999/new-pac",
+        "stars": 46986
+    },
+    {
+        "owner": "massgravel",
+        "name": "Microsoft-Activation-Scripts",
+        "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+        "stars": 46959
+    },
+    {
+        "owner": "ryanoasis",
+        "name": "nerd-fonts",
+        "html_url": "https://github.com/ryanoasis/nerd-fonts",
+        "stars": 46915
+    },
+    {
+        "owner": "NARKOZ",
+        "name": "hacker-scripts",
+        "html_url": "https://github.com/NARKOZ/hacker-scripts",
+        "stars": 46833
+    },
+    {
+        "owner": "prettier",
+        "name": "prettier",
+        "html_url": "https://github.com/prettier/prettier",
+        "stars": 46763
+    },
+    {
+        "owner": "xtekky",
+        "name": "gpt4free",
+        "html_url": "https://github.com/xtekky/gpt4free",
+        "stars": 46090
+    },
+    {
+        "owner": "openai",
+        "name": "whisper",
+        "html_url": "https://github.com/openai/whisper",
+        "stars": 45991
+    },
+    {
+        "owner": "JetBrains",
+        "name": "kotlin",
+        "html_url": "https://github.com/JetBrains/kotlin",
+        "stars": 45982
+    },
+    {
+        "owner": "tldr-pages",
+        "name": "tldr",
+        "html_url": "https://github.com/tldr-pages/tldr",
+        "stars": 45967
+    },
+    {
+        "owner": "DefinitelyTyped",
+        "name": "DefinitelyTyped",
+        "html_url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+        "stars": 45489
+    },
+    {
+        "owner": "Yidadaa",
+        "name": "ChatGPT-Next-Web",
+        "html_url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+        "stars": 45297
+    },
+    {
+        "owner": "minimaxir",
+        "name": "big-list-of-naughty-strings",
+        "html_url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+        "stars": 45275
+    },
+    {
+        "owner": "serverless",
+        "name": "serverless",
+        "html_url": "https://github.com/serverless/serverless",
+        "stars": 45242
+    },
+    {
+        "owner": "cypress-io",
+        "name": "cypress",
+        "html_url": "https://github.com/cypress-io/cypress",
+        "stars": 45066
+    },
+    {
+        "owner": "Textualize",
+        "name": "rich",
+        "html_url": "https://github.com/Textualize/rich",
+        "stars": 45017
+    },
+    {
+        "owner": "traefik",
+        "name": "traefik",
+        "html_url": "https://github.com/traefik/traefik",
+        "stars": 44911
+    },
+    {
+        "owner": "chinese-poetry",
+        "name": "chinese-poetry",
+        "html_url": "https://github.com/chinese-poetry/chinese-poetry",
+        "stars": 44901
+    },
+    {
+        "owner": "algorithm-visualizer",
+        "name": "algorithm-visualizer",
+        "html_url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+        "stars": 44693
+    },
+    {
+        "owner": "etcd-io",
+        "name": "etcd",
+        "html_url": "https://github.com/etcd-io/etcd",
+        "stars": 44653
+    },
+    {
+        "owner": "AntonOsika",
+        "name": "gpt-engineer",
+        "html_url": "https://github.com/AntonOsika/gpt-engineer",
+        "stars": 44580
+    },
+    {
+        "owner": "ziishaned",
+        "name": "learn-regex",
+        "html_url": "https://github.com/ziishaned/learn-regex",
+        "stars": 44578
+    },
+    {
+        "owner": "square",
+        "name": "okhttp",
+        "html_url": "https://github.com/square/okhttp",
+        "stars": 44571
+    },
+    {
+        "owner": "iamkun",
+        "name": "dayjs",
+        "html_url": "https://github.com/iamkun/dayjs",
+        "stars": 44331
+    },
+    {
+        "owner": "PlexPt",
+        "name": "awesome-chatgpt-prompts-zh",
+        "html_url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+        "stars": 44293
+    },
+    {
+        "owner": "mastodon",
+        "name": "mastodon",
+        "html_url": "https://github.com/mastodon/mastodon",
+        "stars": 44255
+    },
+    {
+        "owner": "TryGhost",
+        "name": "Ghost",
+        "html_url": "https://github.com/TryGhost/Ghost",
+        "stars": 44178
+    },
+    {
+        "owner": "vsouza",
+        "name": "awesome-ios",
+        "html_url": "https://github.com/vsouza/awesome-ios",
+        "stars": 44135
+    },
+    {
+        "owner": "mozilla",
+        "name": "pdf.js",
+        "html_url": "https://github.com/mozilla/pdf.js",
+        "stars": 44045
+    },
+    {
+        "owner": "nektos",
+        "name": "act",
+        "html_url": "https://github.com/nektos/act",
+        "stars": 43957
+    },
+    {
+        "owner": "sherlock-project",
+        "name": "sherlock",
+        "html_url": "https://github.com/sherlock-project/sherlock",
+        "stars": 43860
+    },
+    {
+        "owner": "meteor",
+        "name": "meteor",
+        "html_url": "https://github.com/meteor/meteor",
+        "stars": 43778
+    },
+    {
+        "owner": "ethereum",
+        "name": "go-ethereum",
+        "html_url": "https://github.com/ethereum/go-ethereum",
+        "stars": 43768
+    },
+    {
+        "owner": "pi-hole",
+        "name": "pi-hole",
+        "html_url": "https://github.com/pi-hole/pi-hole",
+        "stars": 43632
+    },
+    {
+        "owner": "NationalSecurityAgency",
+        "name": "ghidra",
+        "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+        "stars": 43393
+    },
+    {
+        "owner": "JuliaLang",
+        "name": "julia",
+        "html_url": "https://github.com/JuliaLang/julia",
+        "stars": 43329
+    },
+    {
+        "owner": "sharkdp",
+        "name": "bat",
+        "html_url": "https://github.com/sharkdp/bat",
+        "stars": 43328
+    },
+    {
+        "owner": "facebookresearch",
+        "name": "llama",
+        "html_url": "https://github.com/facebookresearch/llama",
+        "stars": 43325
+    },
+    {
+        "owner": "android",
+        "name": "architecture-samples",
+        "html_url": "https://github.com/android/architecture-samples",
+        "stars": 43198
+    },
+    {
+        "owner": "v2ray",
+        "name": "v2ray-core",
+        "html_url": "https://github.com/v2ray/v2ray-core",
+        "stars": 43178
+    },
+    {
+        "owner": "jgraph",
+        "name": "drawio-desktop",
+        "html_url": "https://github.com/jgraph/drawio-desktop",
+        "stars": 43117
+    },
+    {
+        "owner": "binary-husky",
+        "name": "gpt_academic",
+        "html_url": "https://github.com/binary-husky/gpt_academic",
+        "stars": 43106
+    },
+    {
+        "owner": "gogs",
+        "name": "gogs",
+        "html_url": "https://github.com/gogs/gogs",
+        "stars": 43035
+    },
+    {
+        "owner": "ColorlibHQ",
+        "name": "AdminLTE",
+        "html_url": "https://github.com/ColorlibHQ/AdminLTE",
+        "stars": 43006
+    },
+    {
+        "owner": "karan",
+        "name": "Projects",
+        "html_url": "https://github.com/karan/Projects",
+        "stars": 42994
+    },
+    {
+        "owner": "aymericdamien",
+        "name": "TensorFlow-Examples",
+        "html_url": "https://github.com/aymericdamien/TensorFlow-Examples",
+        "stars": 42988
+    },
+    {
+        "owner": "FiloSottile",
+        "name": "mkcert",
+        "html_url": "https://github.com/FiloSottile/mkcert",
+        "stars": 42936
+    },
+    {
+        "owner": "jestjs",
+        "name": "jest",
+        "html_url": "https://github.com/jestjs/jest",
+        "stars": 42810
+    },
+    {
+        "owner": "iperov",
+        "name": "DeepFaceLab",
+        "html_url": "https://github.com/iperov/DeepFaceLab",
+        "stars": 42797
+    },
+    {
+        "owner": "rust-lang",
+        "name": "rustlings",
+        "html_url": "https://github.com/rust-lang/rustlings",
+        "stars": 42747
+    },
+    {
+        "owner": "tiimgreen",
+        "name": "github-cheat-sheet",
+        "html_url": "https://github.com/tiimgreen/github-cheat-sheet",
+        "stars": 42736
+    },
+    {
+        "owner": "parcel-bundler",
+        "name": "parcel",
+        "html_url": "https://github.com/parcel-bundler/parcel",
+        "stars": 42720
+    },
+    {
+        "owner": "youngyangyang04",
+        "name": "leetcode-master",
+        "html_url": "https://github.com/youngyangyang04/leetcode-master",
+        "stars": 42550
+    },
+    {
+        "owner": "babel",
+        "name": "babel",
+        "html_url": "https://github.com/babel/babel",
+        "stars": 42547
+    },
+    {
+        "owner": "typescript-cheatsheets",
+        "name": "react",
+        "html_url": "https://github.com/typescript-cheatsheets/react",
+        "stars": 42510
+    },
+    {
+        "owner": "commaai",
+        "name": "openpilot",
+        "html_url": "https://github.com/commaai/openpilot",
+        "stars": 42376
+    },
+    {
+        "owner": "astaxie",
+        "name": "build-web-application-with-golang",
+        "html_url": "https://github.com/astaxie/build-web-application-with-golang",
+        "stars": 42348
+    },
+    {
+        "owner": "golang-standards",
+        "name": "project-layout",
+        "html_url": "https://github.com/golang-standards/project-layout",
+        "stars": 42308
+    },
+    {
+        "owner": "justjavac",
+        "name": "awesome-wechat-weapp",
+        "html_url": "https://github.com/justjavac/awesome-wechat-weapp",
+        "stars": 42201
+    },
+    {
+        "owner": "ultralytics",
+        "name": "yolov5",
+        "html_url": "https://github.com/ultralytics/yolov5",
+        "stars": 42147
+    },
+    {
+        "owner": "ggerganov",
+        "name": "llama.cpp",
+        "html_url": "https://github.com/ggerganov/llama.cpp",
+        "stars": 42109
+    },
+    {
+        "owner": "kamranahmedse",
+        "name": "design-patterns-for-humans",
+        "html_url": "https://github.com/kamranahmedse/design-patterns-for-humans",
+        "stars": 42064
+    },
+    {
+        "owner": "square",
+        "name": "retrofit",
+        "html_url": "https://github.com/square/retrofit",
+        "stars": 42051
+    },
+    {
+        "owner": "iamadamdev",
+        "name": "bypass-paywalls-chrome",
+        "html_url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+        "stars": 41979
+    },
+    {
+        "owner": "Avik-Jain",
+        "name": "100-Days-Of-ML-Code",
+        "html_url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+        "stars": 41947
+    },
+    {
+        "owner": "lencx",
+        "name": "ChatGPT",
+        "html_url": "https://github.com/lencx/ChatGPT",
+        "stars": 41763
+    },
+    {
+        "owner": "x64dbg",
+        "name": "x64dbg",
+        "html_url": "https://github.com/x64dbg/x64dbg",
+        "stars": 41743
+    },
+    {
+        "owner": "marktext",
+        "name": "marktext",
+        "html_url": "https://github.com/marktext/marktext",
+        "stars": 41682
+    },
+    {
+        "owner": "ngosang",
+        "name": "trackerslist",
+        "html_url": "https://github.com/ngosang/trackerslist",
+        "stars": 41618
+    },
+    {
+        "owner": "vercel",
+        "name": "hyper",
+        "html_url": "https://github.com/vercel/hyper",
+        "stars": 41601
+    },
+    {
+        "owner": "k88hudson",
+        "name": "git-flight-rules",
+        "html_url": "https://github.com/k88hudson/git-flight-rules",
+        "stars": 41297
+    },
+    {
+        "owner": "yarnpkg",
+        "name": "yarn",
+        "html_url": "https://github.com/yarnpkg/yarn",
+        "stars": 41271
+    },
+    {
+        "owner": "PowerShell",
+        "name": "PowerShell",
+        "html_url": "https://github.com/PowerShell/PowerShell",
+        "stars": 41089
+    },
+    {
+        "owner": "minio",
+        "name": "minio",
+        "html_url": "https://github.com/minio/minio",
+        "stars": 41083
+    },
+    {
+        "owner": "pixijs",
+        "name": "pixijs",
+        "html_url": "https://github.com/pixijs/pixijs",
+        "stars": 41081
+    },
+    {
+        "owner": "rclone",
+        "name": "rclone",
+        "html_url": "https://github.com/rclone/rclone",
+        "stars": 40685
+    },
+    {
+        "owner": "vuejs",
+        "name": "core",
+        "html_url": "https://github.com/vuejs/core",
+        "stars": 40637
+    },
+    {
+        "owner": "agalwood",
+        "name": "Motrix",
+        "html_url": "https://github.com/agalwood/Motrix",
+        "stars": 40468
+    },
+    {
+        "owner": "BurntSushi",
+        "name": "ripgrep",
+        "html_url": "https://github.com/BurntSushi/ripgrep",
+        "stars": 40429
+    },
+    {
+        "owner": "bailicangdu",
+        "name": "vue2-elm",
+        "html_url": "https://github.com/bailicangdu/vue2-elm",
+        "stars": 40400
+    },
+    {
+        "owner": "pandas-dev",
+        "name": "pandas",
+        "html_url": "https://github.com/pandas-dev/pandas",
+        "stars": 39975
+    },
+    {
+        "owner": "isocpp",
+        "name": "CppCoreGuidelines",
+        "html_url": "https://github.com/isocpp/CppCoreGuidelines",
+        "stars": 39877
+    },
+    {
+        "owner": "nwjs",
+        "name": "nw.js",
+        "html_url": "https://github.com/nwjs/nw.js",
+        "stars": 39861
+    },
+    {
+        "owner": "Alamofire",
+        "name": "Alamofire",
+        "html_url": "https://github.com/Alamofire/Alamofire",
+        "stars": 39835
+    },
+    {
+        "owner": "jakevdp",
+        "name": "PythonDataScienceHandbook",
+        "html_url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+        "stars": 39789
+    },
+    {
+        "owner": "Unitech",
+        "name": "pm2",
+        "html_url": "https://github.com/Unitech/pm2",
+        "stars": 39772
+    },
+    {
+        "owner": "styled-components",
+        "name": "styled-components",
+        "html_url": "https://github.com/styled-components/styled-components",
+        "stars": 39570
+    },
+    {
+        "owner": "huginn",
+        "name": "huginn",
+        "html_url": "https://github.com/huginn/huginn",
+        "stars": 39492
+    },
+    {
+        "owner": "apache",
+        "name": "dubbo",
+        "html_url": "https://github.com/apache/dubbo",
+        "stars": 39435
+    },
+    {
+        "owner": "Z4nzu",
+        "name": "hackingtool",
+        "html_url": "https://github.com/Z4nzu/hackingtool",
+        "stars": 39400
+    },
+    {
+        "owner": "jesseduffield",
+        "name": "lazygit",
+        "html_url": "https://github.com/jesseduffield/lazygit",
+        "stars": 39354
+    },
+    {
+        "owner": "louislam",
+        "name": "uptime-kuma",
+        "html_url": "https://github.com/louislam/uptime-kuma",
+        "stars": 39347
+    },
+    {
+        "owner": "AppFlowy-IO",
+        "name": "AppFlowy",
+        "html_url": "https://github.com/AppFlowy-IO/AppFlowy",
+        "stars": 39344
+    },
+    {
+        "owner": "dypsilon",
+        "name": "frontend-dev-bookmarks",
+        "html_url": "https://github.com/dypsilon/frontend-dev-bookmarks",
+        "stars": 39330
+    },
+    {
+        "owner": "meilisearch",
+        "name": "meilisearch",
+        "html_url": "https://github.com/meilisearch/meilisearch",
+        "stars": 39180
+    },
+    {
+        "owner": "grpc",
+        "name": "grpc",
+        "html_url": "https://github.com/grpc/grpc",
+        "stars": 39175
+    },
+    {
+        "owner": "romkatv",
+        "name": "powerlevel10k",
+        "html_url": "https://github.com/romkatv/powerlevel10k",
+        "stars": 39036
+    },
+    {
+        "owner": "hashicorp",
+        "name": "terraform",
+        "html_url": "https://github.com/hashicorp/terraform",
+        "stars": 38999
+    },
+    {
+        "owner": "facebookresearch",
+        "name": "segment-anything",
+        "html_url": "https://github.com/facebookresearch/segment-anything",
+        "stars": 38996
+    },
+    {
+        "owner": "laurent22",
+        "name": "joplin",
+        "html_url": "https://github.com/laurent22/joplin",
+        "stars": 38959
+    },
+    {
+        "owner": "discourse",
+        "name": "discourse",
+        "html_url": "https://github.com/discourse/discourse",
+        "stars": 38898
+    },
+    {
+        "owner": "Dogfalo",
+        "name": "materialize",
+        "html_url": "https://github.com/Dogfalo/materialize",
+        "stars": 38839
+    },
+    {
+        "owner": "Asabeneh",
+        "name": "30-Days-Of-JavaScript",
+        "html_url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+        "stars": 38787
+    },
+    {
+        "owner": "FFmpeg",
+        "name": "FFmpeg",
+        "html_url": "https://github.com/FFmpeg/FFmpeg",
+        "stars": 38776
+    },
+    {
+        "owner": "poteto",
+        "name": "hiring-without-whiteboards",
+        "html_url": "https://github.com/poteto/hiring-without-whiteboards",
+        "stars": 38730
+    },
+    {
+        "owner": "wagoodman",
+        "name": "dive",
+        "html_url": "https://github.com/wagoodman/dive",
+        "stars": 38727
+    },
+    {
+        "owner": "google",
+        "name": "zx",
+        "html_url": "https://github.com/google/zx",
+        "stars": 38694
+    },
+    {
+        "owner": "go-gitea",
+        "name": "gitea",
+        "html_url": "https://github.com/go-gitea/gitea",
+        "stars": 38680
+    },
+    {
+        "owner": "topjohnwu",
+        "name": "Magisk",
+        "html_url": "https://github.com/topjohnwu/Magisk",
+        "stars": 38665
+    },
+    {
+        "owner": "dcloudio",
+        "name": "uni-app",
+        "html_url": "https://github.com/dcloudio/uni-app",
+        "stars": 38664
+    },
+    {
+        "owner": "yangshun",
+        "name": "front-end-interview-handbook",
+        "html_url": "https://github.com/yangshun/front-end-interview-handbook",
+        "stars": 38641
+    },
+    {
+        "owner": "Leaflet",
+        "name": "Leaflet",
+        "html_url": "https://github.com/Leaflet/Leaflet",
+        "stars": 38601
+    },
+    {
+        "owner": "GitSquared",
+        "name": "edex-ui",
+        "html_url": "https://github.com/GitSquared/edex-ui",
+        "stars": 38438
+    },
+    {
+        "owner": "imartinez",
+        "name": "privateGPT",
+        "html_url": "https://github.com/imartinez/privateGPT",
+        "stars": 38436
+    },
+    {
+        "owner": "krahets",
+        "name": "hello-algo",
+        "html_url": "https://github.com/krahets/hello-algo",
+        "stars": 38352
+    },
+    {
+        "owner": "streamich",
+        "name": "react-use",
+        "html_url": "https://github.com/streamich/react-use",
+        "stars": 38333
+    },
+    {
+        "owner": "firstcontributions",
+        "name": "first-contributions",
+        "html_url": "https://github.com/firstcontributions/first-contributions",
+        "stars": 38309
+    },
+    {
+        "owner": "faif",
+        "name": "python-patterns",
+        "html_url": "https://github.com/faif/python-patterns",
+        "stars": 38234
+    },
+    {
+        "owner": "nocodb",
+        "name": "nocodb",
+        "html_url": "https://github.com/nocodb/nocodb",
+        "stars": 38118
+    },
+    {
+        "owner": "vuetifyjs",
+        "name": "vuetify",
+        "html_url": "https://github.com/vuetifyjs/vuetify",
+        "stars": 38117
+    },
+    {
+        "owner": "akullpp",
+        "name": "awesome-java",
+        "html_url": "https://github.com/akullpp/awesome-java",
+        "stars": 37931
+    },
+    {
+        "owner": "gorhill",
+        "name": "uBlock",
+        "html_url": "https://github.com/gorhill/uBlock",
+        "stars": 37762
+    },
+    {
+        "owner": "fastlane",
+        "name": "fastlane",
+        "html_url": "https://github.com/fastlane/fastlane",
+        "stars": 37614
+    },
+    {
+        "owner": "rust-unofficial",
+        "name": "awesome-rust",
+        "html_url": "https://github.com/rust-unofficial/awesome-rust",
+        "stars": 37568
+    },
+    {
+        "owner": "hexojs",
+        "name": "hexo",
+        "html_url": "https://github.com/hexojs/hexo",
+        "stars": 37519
+    },
+    {
+        "owner": "brillout",
+        "name": "awesome-react-components",
+        "html_url": "https://github.com/brillout/awesome-react-components",
+        "stars": 37494
+    },
+    {
+        "owner": "alex",
+        "name": "what-happens-when",
+        "html_url": "https://github.com/alex/what-happens-when",
+        "stars": 37392
+    },
+    {
+        "owner": "impress",
+        "name": "impress.js",
+        "html_url": "https://github.com/impress/impress.js",
+        "stars": 37342
+    },
+    {
+        "owner": "Homebrew",
+        "name": "brew",
+        "html_url": "https://github.com/Homebrew/brew",
+        "stars": 37310
+    },
+    {
+        "owner": "RocketChat",
+        "name": "Rocket.Chat",
+        "html_url": "https://github.com/RocketChat/Rocket.Chat",
+        "stars": 37214
+    },
+    {
+        "owner": "quilljs",
+        "name": "quill",
+        "html_url": "https://github.com/quilljs/quill",
+        "stars": 37143
+    },
+    {
+        "owner": "serhii-londar",
+        "name": "open-source-mac-os-apps",
+        "html_url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+        "stars": 37135
+    },
+    {
+        "owner": "react-hook-form",
+        "name": "react-hook-form",
+        "html_url": "https://github.com/react-hook-form/react-hook-form",
+        "stars": 37057
+    },
+    {
+        "owner": "nlohmann",
+        "name": "json",
+        "html_url": "https://github.com/nlohmann/json",
+        "stars": 37028
+    },
+    {
+        "owner": "apache",
+        "name": "spark",
+        "html_url": "https://github.com/apache/spark",
+        "stars": 36897
+    },
+    {
+        "owner": "PhilJay",
+        "name": "MPAndroidChart",
+        "html_url": "https://github.com/PhilJay/MPAndroidChart",
+        "stars": 36852
+    },
+    {
+        "owner": "nolimits4web",
+        "name": "swiper",
+        "html_url": "https://github.com/nolimits4web/swiper",
+        "stars": 36851
+    },
+    {
+        "owner": "appwrite",
+        "name": "appwrite",
+        "html_url": "https://github.com/appwrite/appwrite",
+        "stars": 36851
+    },
+    {
+        "owner": "labmlai",
+        "name": "annotated_deep_learning_paper_implementations",
+        "html_url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+        "stars": 36840
+    },
+    {
+        "owner": "starship",
+        "name": "starship",
+        "html_url": "https://github.com/starship/starship",
+        "stars": 36794
+    },
+    {
+        "owner": "kelseyhightower",
+        "name": "kubernetes-the-hard-way",
+        "html_url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+        "stars": 36713
+    },
+    {
+        "owner": "type-challenges",
+        "name": "type-challenges",
+        "html_url": "https://github.com/type-challenges/type-challenges",
+        "stars": 36709
+    },
+    {
+        "owner": "dkhamsing",
+        "name": "open-source-ios-apps",
+        "html_url": "https://github.com/dkhamsing/open-source-ios-apps",
+        "stars": 36655
+    },
+    {
+        "owner": "apachecn",
+        "name": "ailearning",
+        "html_url": "https://github.com/apachecn/ailearning",
+        "stars": 36588
+    },
+    {
+        "owner": "FreeCodeCampChina",
+        "name": "freecodecamp.cn",
+        "html_url": "https://github.com/FreeCodeCampChina/freecodecamp.cn",
+        "stars": 36552
+    },
+    {
+        "owner": "ruanyf",
+        "name": "weekly",
+        "html_url": "https://github.com/ruanyf/weekly",
+        "stars": 36535
+    },
+    {
+        "owner": "skylot",
+        "name": "jadx",
+        "html_url": "https://github.com/skylot/jadx",
+        "stars": 36533
+    },
+    {
+        "owner": "TanStack",
+        "name": "query",
+        "html_url": "https://github.com/TanStack/query",
+        "stars": 36525
+    },
+    {
+        "owner": "floodsung",
+        "name": "Deep-Learning-Papers-Reading-Roadmap",
+        "html_url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+        "stars": 36439
+    },
+    {
+        "owner": "dair-ai",
+        "name": "Prompt-Engineering-Guide",
+        "html_url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+        "stars": 36342
+    },
+    {
+        "owner": "videojs",
+        "name": "video.js",
+        "html_url": "https://github.com/videojs/video.js",
+        "stars": 36269
+    },
+    {
+        "owner": "evanw",
+        "name": "esbuild",
+        "html_url": "https://github.com/evanw/esbuild",
+        "stars": 36167
+    },
+    {
+        "owner": "chubin",
+        "name": "cheat.sh",
+        "html_url": "https://github.com/chubin/cheat.sh",
+        "stars": 36159
+    },
+    {
+        "owner": "jgraph",
+        "name": "drawio",
+        "html_url": "https://github.com/jgraph/drawio",
+        "stars": 36151
+    },
+    {
+        "owner": "php",
+        "name": "php-src",
+        "html_url": "https://github.com/php/php-src",
+        "stars": 36111
+    },
+    {
+        "owner": "jeecgboot",
+        "name": "jeecg-boot",
+        "html_url": "https://github.com/jeecgboot/jeecg-boot",
+        "stars": 36042
+    },
+    {
+        "owner": "Kong",
+        "name": "kong",
+        "html_url": "https://github.com/Kong/kong",
+        "stars": 36028
+    },
+    {
+        "owner": "opentofu",
+        "name": "manifesto",
+        "html_url": "https://github.com/opentofu/manifesto",
+        "stars": 35879
+    },
+    {
+        "owner": "withastro",
+        "name": "astro",
+        "html_url": "https://github.com/withastro/astro",
+        "stars": 35854
+    },
+    {
+        "owner": "microsoft",
+        "name": "monaco-editor",
+        "html_url": "https://github.com/microsoft/monaco-editor",
+        "stars": 35849
+    },
+    {
+        "owner": "pmndrs",
+        "name": "zustand",
+        "html_url": "https://github.com/pmndrs/zustand",
+        "stars": 35837
+    },
+    {
+        "owner": "tabler",
+        "name": "tabler",
+        "html_url": "https://github.com/tabler/tabler",
+        "stars": 35603
+    },
+    {
+        "owner": "google",
+        "name": "styleguide",
+        "html_url": "https://github.com/google/styleguide",
+        "stars": 35553
+    },
+    {
+        "owner": "wg",
+        "name": "wrk",
+        "html_url": "https://github.com/wg/wrk",
+        "stars": 35511
+    },
+    {
+        "owner": "slatedocs",
+        "name": "slate",
+        "html_url": "https://github.com/slatedocs/slate",
+        "stars": 35490
+    },
+    {
+        "owner": "0voice",
+        "name": "interview_internal_reference",
+        "html_url": "https://github.com/0voice/interview_internal_reference",
+        "stars": 35472
+    },
+    {
+        "owner": "google-research",
+        "name": "bert",
+        "html_url": "https://github.com/google-research/bert",
+        "stars": 35425
+    },
+    {
+        "owner": "LAION-AI",
+        "name": "Open-Assistant",
+        "html_url": "https://github.com/LAION-AI/Open-Assistant",
+        "stars": 35358
+    },
+    {
+        "owner": "photonstorm",
+        "name": "phaser",
+        "html_url": "https://github.com/photonstorm/phaser",
+        "stars": 35355
+    },
+    {
+        "owner": "getsentry",
+        "name": "sentry",
+        "html_url": "https://github.com/getsentry/sentry",
+        "stars": 35278
+    },
+    {
+        "owner": "preactjs",
+        "name": "preact",
+        "html_url": "https://github.com/preactjs/preact",
+        "stars": 35109
+    },
+    {
+        "owner": "pingcap",
+        "name": "tidb",
+        "html_url": "https://github.com/pingcap/tidb",
+        "stars": 34992
+    },
+    {
+        "owner": "lerna",
+        "name": "lerna",
+        "html_url": "https://github.com/lerna/lerna",
+        "stars": 34986
+    },
+    {
+        "owner": "eugenp",
+        "name": "tutorials",
+        "html_url": "https://github.com/eugenp/tutorials",
+        "stars": 34984
+    },
+    {
+        "owner": "ant-design",
+        "name": "ant-design-pro",
+        "html_url": "https://github.com/ant-design/ant-design-pro",
+        "stars": 34957
+    },
+    {
+        "owner": "hpcaitech",
+        "name": "ColossalAI",
+        "html_url": "https://github.com/hpcaitech/ColossalAI",
+        "stars": 34880
+    },
+    {
+        "owner": "dylanaraps",
+        "name": "pure-bash-bible",
+        "html_url": "https://github.com/dylanaraps/pure-bash-bible",
+        "stars": 34830
+    },
+    {
+        "owner": "THUDM",
+        "name": "ChatGLM-6B",
+        "html_url": "https://github.com/THUDM/ChatGLM-6B",
+        "stars": 34762
+    },
+    {
+        "owner": "vlang",
+        "name": "v",
+        "html_url": "https://github.com/vlang/v",
+        "stars": 34758
+    },
+    {
+        "owner": "LeCoupa",
+        "name": "awesome-cheatsheets",
+        "html_url": "https://github.com/LeCoupa/awesome-cheatsheets",
+        "stars": 34757
+    },
+    {
+        "owner": "alvarotrigo",
+        "name": "fullPage.js",
+        "html_url": "https://github.com/alvarotrigo/fullPage.js",
+        "stars": 34756
+    },
+    {
+        "owner": "PKUFlyingPig",
+        "name": "cs-self-learning",
+        "html_url": "https://github.com/PKUFlyingPig/cs-self-learning",
+        "stars": 34739
+    },
+    {
+        "owner": "iina",
+        "name": "iina",
+        "html_url": "https://github.com/iina/iina",
+        "stars": 34650
+    },
+    {
+        "owner": "open-guides",
+        "name": "og-aws",
+        "html_url": "https://github.com/open-guides/og-aws",
+        "stars": 34606
+    },
+    {
+        "owner": "chakra-ui",
+        "name": "chakra-ui",
+        "html_url": "https://github.com/chakra-ui/chakra-ui",
+        "stars": 34596
+    },
+    {
+        "owner": "AobingJava",
+        "name": "JavaFamily",
+        "html_url": "https://github.com/AobingJava/JavaFamily",
+        "stars": 34552
+    },
+    {
+        "owner": "nodejs",
+        "name": "node-v0.x-archive",
+        "html_url": "https://github.com/nodejs/node-v0.x-archive",
+        "stars": 34532
+    },
+    {
+        "owner": "metabase",
+        "name": "metabase",
+        "html_url": "https://github.com/metabase/metabase",
+        "stars": 34489
+    },
+    {
+        "owner": "sahat",
+        "name": "hackathon-starter",
+        "html_url": "https://github.com/sahat/hackathon-starter",
+        "stars": 34443
+    },
+    {
+        "owner": "koajs",
+        "name": "koa",
+        "html_url": "https://github.com/koajs/koa",
+        "stars": 34383
+    },
+    {
+        "owner": "satwikkansal",
+        "name": "wtfpython",
+        "html_url": "https://github.com/satwikkansal/wtfpython",
+        "stars": 34335
+    },
+    {
+        "owner": "nativefier",
+        "name": "nativefier",
+        "html_url": "https://github.com/nativefier/nativefier",
+        "stars": 34329
+    },
+    {
+        "owner": "GokuMohandas",
+        "name": "Made-With-ML",
+        "html_url": "https://github.com/GokuMohandas/Made-With-ML",
+        "stars": 34308
+    },
+    {
+        "owner": "exacity",
+        "name": "deeplearningbook-chinese",
+        "html_url": "https://github.com/exacity/deeplearningbook-chinese",
+        "stars": 34284
+    },
+    {
+        "owner": "airbnb",
+        "name": "lottie-android",
+        "html_url": "https://github.com/airbnb/lottie-android",
+        "stars": 34279
+    },
+    {
+        "owner": "n8n-io",
+        "name": "n8n",
+        "html_url": "https://github.com/n8n-io/n8n",
+        "stars": 34205
+    },
+    {
+        "owner": "prisma",
+        "name": "prisma",
+        "html_url": "https://github.com/prisma/prisma",
+        "stars": 34185
+    },
+    {
+        "owner": "microsoft",
+        "name": "TaskMatrix",
+        "html_url": "https://github.com/microsoft/TaskMatrix",
+        "stars": 34180
+    },
+    {
+        "owner": "dbeaver",
+        "name": "dbeaver",
+        "html_url": "https://github.com/dbeaver/dbeaver",
+        "stars": 34055
+    },
+    {
+        "owner": "shadowsocks",
+        "name": "shadowsocks-android",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-android",
+        "stars": 34023
+    },
+    {
+        "owner": "bumptech",
+        "name": "glide",
+        "html_url": "https://github.com/bumptech/glide",
+        "stars": 33950
+    },
+    {
+        "owner": "psf",
+        "name": "black",
+        "html_url": "https://github.com/psf/black",
+        "stars": 33920
+    },
+    {
+        "owner": "freefq",
+        "name": "free",
+        "html_url": "https://github.com/freefq/free",
+        "stars": 33868
+    },
+    {
+        "owner": "go-gorm",
+        "name": "gorm",
+        "html_url": "https://github.com/go-gorm/gorm",
+        "stars": 33790
+    },
+    {
+        "owner": "istio",
+        "name": "istio",
+        "html_url": "https://github.com/istio/istio",
+        "stars": 33781
+    },
+    {
+        "owner": "QSCTech",
+        "name": "zju-icicles",
+        "html_url": "https://github.com/QSCTech/zju-icicles",
+        "stars": 33744
+    },
+    {
+        "owner": "google",
+        "name": "leveldb",
+        "html_url": "https://github.com/google/leveldb",
+        "stars": 33673
+    },
+    {
+        "owner": "SheetJS",
+        "name": "sheetjs",
+        "html_url": "https://github.com/SheetJS/sheetjs",
+        "stars": 33662
+    },
+    {
+        "owner": "PaddlePaddle",
+        "name": "PaddleOCR",
+        "html_url": "https://github.com/PaddlePaddle/PaddleOCR",
+        "stars": 33655
+    },
+    {
+        "owner": "spf13",
+        "name": "cobra",
+        "html_url": "https://github.com/spf13/cobra",
+        "stars": 33649
+    },
+    {
+        "owner": "NervJS",
+        "name": "taro",
+        "html_url": "https://github.com/NervJS/taro",
+        "stars": 33643
+    },
+    {
+        "owner": "pyenv",
+        "name": "pyenv",
+        "html_url": "https://github.com/pyenv/pyenv",
+        "stars": 33631
+    },
+    {
+        "owner": "BVLC",
+        "name": "caffe",
+        "html_url": "https://github.com/BVLC/caffe",
+        "stars": 33587
+    },
+    {
+        "owner": "unknwon",
+        "name": "the-way-to-go_ZH_CN",
+        "html_url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+        "stars": 33548
+    },
+    {
+        "owner": "Light-City",
+        "name": "CPlusPlusThings",
+        "html_url": "https://github.com/Light-City/CPlusPlusThings",
+        "stars": 33514
+    },
+    {
+        "owner": "zenorocha",
+        "name": "clipboard.js",
+        "html_url": "https://github.com/zenorocha/clipboard.js",
+        "stars": 33497
+    },
+    {
+        "owner": "gto76",
+        "name": "python-cheatsheet",
+        "html_url": "https://github.com/gto76/python-cheatsheet",
+        "stars": 33487
+    },
+    {
+        "owner": "alibaba",
+        "name": "arthas",
+        "html_url": "https://github.com/alibaba/arthas",
+        "stars": 33472
+    },
+    {
+        "owner": "cli",
+        "name": "cli",
+        "html_url": "https://github.com/cli/cli",
+        "stars": 33455
+    },
+    {
+        "owner": "shadowsocks",
+        "name": "shadowsocks",
+        "html_url": "https://github.com/shadowsocks/shadowsocks",
+        "stars": 33444
+    },
+    {
+        "owner": "geekxh",
+        "name": "hello-algorithm",
+        "html_url": "https://github.com/geekxh/hello-algorithm",
+        "stars": 33407
+    },
+    {
+        "owner": "jondot",
+        "name": "awesome-react-native",
+        "html_url": "https://github.com/jondot/awesome-react-native",
+        "stars": 33392
+    },
+    {
+        "owner": "adobe",
+        "name": "brackets",
+        "html_url": "https://github.com/adobe/brackets",
+        "stars": 33378
+    },
+    {
+        "owner": "AFNetworking",
+        "name": "AFNetworking",
+        "html_url": "https://github.com/AFNetworking/AFNetworking",
+        "stars": 33354
+    },
+    {
+        "owner": "acmesh-official",
+        "name": "acme.sh",
+        "html_url": "https://github.com/acmesh-official/acme.sh",
+        "stars": 33315
+    },
+    {
+        "owner": "XingangPan",
+        "name": "DragGAN",
+        "html_url": "https://github.com/XingangPan/DragGAN",
+        "stars": 33300
+    },
+    {
+        "owner": "koalaman",
+        "name": "shellcheck",
+        "html_url": "https://github.com/koalaman/shellcheck",
+        "stars": 33299
+    },
+    {
+        "owner": "carbon-app",
+        "name": "carbon",
+        "html_url": "https://github.com/carbon-app/carbon",
+        "stars": 33285
+    },
+    {
+        "owner": "formulahendry",
+        "name": "955.WLB",
+        "html_url": "https://github.com/formulahendry/955.WLB",
+        "stars": 33209
+    },
+    {
+        "owner": "vim",
+        "name": "vim",
+        "html_url": "https://github.com/vim/vim",
+        "stars": 33113
+    },
+    {
+        "owner": "shadcn-ui",
+        "name": "ui",
+        "html_url": "https://github.com/shadcn-ui/ui",
+        "stars": 33058
+    },
+    {
+        "owner": "jaredpalmer",
+        "name": "formik",
+        "html_url": "https://github.com/jaredpalmer/formik",
+        "stars": 32918
+    },
+    {
+        "owner": "openai",
+        "name": "gym",
+        "html_url": "https://github.com/openai/gym",
+        "stars": 32840
+    },
+    {
+        "owner": "gulpjs",
+        "name": "gulp",
+        "html_url": "https://github.com/gulpjs/gulp",
+        "stars": 32834
+    },
+    {
+        "owner": "xitu",
+        "name": "gold-miner",
+        "html_url": "https://github.com/xitu/gold-miner",
+        "stars": 32822
+    },
+    {
+        "owner": "dotnet",
+        "name": "aspnetcore",
+        "html_url": "https://github.com/dotnet/aspnetcore",
+        "stars": 32777
+    },
+    {
+        "owner": "testerSunshine",
+        "name": "12306",
+        "html_url": "https://github.com/testerSunshine/12306",
+        "stars": 32752
+    },
+    {
+        "owner": "immutable-js",
+        "name": "immutable-js",
+        "html_url": "https://github.com/immutable-js/immutable-js",
+        "stars": 32692
+    },
+    {
+        "owner": "DovAmir",
+        "name": "awesome-design-patterns",
+        "html_url": "https://github.com/DovAmir/awesome-design-patterns",
+        "stars": 32602
+    },
+    {
+        "owner": "freeCodeCamp",
+        "name": "devdocs",
+        "html_url": "https://github.com/freeCodeCamp/devdocs",
+        "stars": 32508
+    },
+    {
+        "owner": "Blankj",
+        "name": "AndroidUtilCode",
+        "html_url": "https://github.com/Blankj/AndroidUtilCode",
+        "stars": 32508
+    },
+    {
+        "owner": "TencentARC",
+        "name": "GFPGAN",
+        "html_url": "https://github.com/TencentARC/GFPGAN",
+        "stars": 32501
+    },
+    {
+        "owner": "mitmproxy",
+        "name": "mitmproxy",
+        "html_url": "https://github.com/mitmproxy/mitmproxy",
+        "stars": 32486
+    },
+    {
+        "owner": "date-fns",
+        "name": "date-fns",
+        "html_url": "https://github.com/date-fns/date-fns",
+        "stars": 32418
+    },
+    {
+        "owner": "denysdovhan",
+        "name": "wtfjs",
+        "html_url": "https://github.com/denysdovhan/wtfjs",
+        "stars": 32368
+    },
+    {
+        "owner": "sudheerj",
+        "name": "reactjs-interview-questions",
+        "html_url": "https://github.com/sudheerj/reactjs-interview-questions",
+        "stars": 32246
+    },
+    {
+        "owner": "typeorm",
+        "name": "typeorm",
+        "html_url": "https://github.com/typeorm/typeorm",
+        "stars": 32242
+    },
+    {
+        "owner": "google",
+        "name": "material-design-lite",
+        "html_url": "https://github.com/google/material-design-lite",
+        "stars": 32215
+    },
+    {
+        "owner": "XX-net",
+        "name": "XX-Net",
+        "html_url": "https://github.com/XX-net/XX-Net",
+        "stars": 32201
+    },
+    {
+        "owner": "bannedbook",
+        "name": "fanqiang",
+        "html_url": "https://github.com/bannedbook/fanqiang",
+        "stars": 32165
+    },
+    {
+        "owner": "junegunn",
+        "name": "vim-plug",
+        "html_url": "https://github.com/junegunn/vim-plug",
+        "stars": 32125
+    },
+    {
+        "owner": "apache",
+        "name": "airflow",
+        "html_url": "https://github.com/apache/airflow",
+        "stars": 32028
+    },
+    {
+        "owner": "netty",
+        "name": "netty",
+        "html_url": "https://github.com/netty/netty",
+        "stars": 31926
+    },
+    {
+        "owner": "curl",
+        "name": "curl",
+        "html_url": "https://github.com/curl/curl",
+        "stars": 31800
+    },
+    {
+        "owner": "naptha",
+        "name": "tesseract.js",
+        "html_url": "https://github.com/naptha/tesseract.js",
+        "stars": 31799
+    },
+    {
+        "owner": "sickcodes",
+        "name": "Docker-OSX",
+        "html_url": "https://github.com/sickcodes/Docker-OSX",
+        "stars": 31778
+    },
+    {
+        "owner": "shadowsocks",
+        "name": "ShadowsocksX-NG",
+        "html_url": "https://github.com/shadowsocks/ShadowsocksX-NG",
+        "stars": 31772
+    },
+    {
+        "owner": "sorrycc",
+        "name": "awesome-javascript",
+        "html_url": "https://github.com/sorrycc/awesome-javascript",
+        "stars": 31767
+    },
+    {
+        "owner": "bilibili",
+        "name": "ijkplayer",
+        "html_url": "https://github.com/bilibili/ijkplayer",
+        "stars": 31700
+    },
+    {
+        "owner": "mingrammer",
+        "name": "diagrams",
+        "html_url": "https://github.com/mingrammer/diagrams",
+        "stars": 31630
+    },
+    {
+        "owner": "zxing",
+        "name": "zxing",
+        "html_url": "https://github.com/zxing/zxing",
+        "stars": 31570
+    },
+    {
+        "owner": "aria2",
+        "name": "aria2",
+        "html_url": "https://github.com/aria2/aria2",
+        "stars": 31543
+    },
+    {
+        "owner": "lyswhut",
+        "name": "lx-music-desktop",
+        "html_url": "https://github.com/lyswhut/lx-music-desktop",
+        "stars": 31522
+    },
+    {
+        "owner": "carbon-language",
+        "name": "carbon-lang",
+        "html_url": "https://github.com/carbon-language/carbon-lang",
+        "stars": 31383
+    },
+    {
+        "owner": "rapid7",
+        "name": "metasploit-framework",
+        "html_url": "https://github.com/rapid7/metasploit-framework",
+        "stars": 31365
+    },
+    {
+        "owner": "fxsjy",
+        "name": "jieba",
+        "html_url": "https://github.com/fxsjy/jieba",
+        "stars": 31325
+    },
+    {
+        "owner": "Trinea",
+        "name": "android-open-project",
+        "html_url": "https://github.com/Trinea/android-open-project",
+        "stars": 31316
+    },
+    {
+        "owner": "ClickHouse",
+        "name": "ClickHouse",
+        "html_url": "https://github.com/ClickHouse/ClickHouse",
+        "stars": 31165
+    },
+    {
+        "owner": "babysor",
+        "name": "MockingBird",
+        "html_url": "https://github.com/babysor/MockingBird",
+        "stars": 31159
+    },
+    {
+        "owner": "google-research",
+        "name": "google-research",
+        "html_url": "https://github.com/google-research/google-research",
+        "stars": 31086
+    },
+    {
+        "owner": "atlassian",
+        "name": "react-beautiful-dnd",
+        "html_url": "https://github.com/atlassian/react-beautiful-dnd",
+        "stars": 31040
+    },
+    {
+        "owner": "google",
+        "name": "googletest",
+        "html_url": "https://github.com/google/googletest",
+        "stars": 31028
+    },
+    {
+        "owner": "blueimp",
+        "name": "jQuery-File-Upload",
+        "html_url": "https://github.com/blueimp/jQuery-File-Upload",
+        "stars": 31007
+    },
+    {
+        "owner": "odoo",
+        "name": "odoo",
+        "html_url": "https://github.com/odoo/odoo",
+        "stars": 30978
+    },
+    {
+        "owner": "yuzu-emu",
+        "name": "yuzu",
+        "html_url": "https://github.com/yuzu-emu/yuzu",
+        "stars": 30918
+    },
+    {
+        "owner": "bradtraversy",
+        "name": "50projects50days",
+        "html_url": "https://github.com/bradtraversy/50projects50days",
+        "stars": 30906
+    },
+    {
+        "owner": "alist-org",
+        "name": "alist",
+        "html_url": "https://github.com/alist-org/alist",
+        "stars": 30844
+    },
+    {
+        "owner": "coreybutler",
+        "name": "nvm-windows",
+        "html_url": "https://github.com/coreybutler/nvm-windows",
+        "stars": 30834
+    },
+    {
+        "owner": "Kong",
+        "name": "insomnia",
+        "html_url": "https://github.com/Kong/insomnia",
+        "stars": 30831
+    },
+    {
+        "owner": "halfrost",
+        "name": "LeetCode-Go",
+        "html_url": "https://github.com/halfrost/LeetCode-Go",
+        "stars": 30681
+    },
+    {
+        "owner": "Stability-AI",
+        "name": "stablediffusion",
+        "html_url": "https://github.com/Stability-AI/stablediffusion",
+        "stars": 30646
+    },
+    {
+        "owner": "jesseduffield",
+        "name": "lazydocker",
+        "html_url": "https://github.com/jesseduffield/lazydocker",
+        "stars": 30644
+    },
+    {
+        "owner": "markedjs",
+        "name": "marked",
+        "html_url": "https://github.com/markedjs/marked",
+        "stars": 30636
+    },
+    {
+        "owner": "huihut",
+        "name": "interview",
+        "html_url": "https://github.com/huihut/interview",
+        "stars": 30633
+    },
+    {
+        "owner": "docker",
+        "name": "compose",
+        "html_url": "https://github.com/docker/compose",
+        "stars": 30628
+    },
+    {
+        "owner": "bayandin",
+        "name": "awesome-awesomeness",
+        "html_url": "https://github.com/bayandin/awesome-awesomeness",
+        "stars": 30617
+    },
+    {
+        "owner": "xkcoding",
+        "name": "spring-boot-demo",
+        "html_url": "https://github.com/xkcoding/spring-boot-demo",
+        "stars": 30589
+    },
+    {
+        "owner": "tmux",
+        "name": "tmux",
+        "html_url": "https://github.com/tmux/tmux",
+        "stars": 30564
+    },
+    {
+        "owner": "hankcs",
+        "name": "HanLP",
+        "html_url": "https://github.com/hankcs/HanLP",
+        "stars": 30408
+    },
+    {
+        "owner": "typicode",
+        "name": "husky",
+        "html_url": "https://github.com/typicode/husky",
+        "stars": 30366
+    },
+    {
+        "owner": "laravel",
+        "name": "framework",
+        "html_url": "https://github.com/laravel/framework",
+        "stars": 30339
+    },
+    {
+        "owner": "WerWolv",
+        "name": "ImHex",
+        "html_url": "https://github.com/WerWolv/ImHex",
+        "stars": 30271
+    },
+    {
+        "owner": "certbot",
+        "name": "certbot",
+        "html_url": "https://github.com/certbot/certbot",
+        "stars": 30269
+    },
+    {
+        "owner": "beego",
+        "name": "beego",
+        "html_url": "https://github.com/beego/beego",
+        "stars": 30259
+    },
+    {
+        "owner": "byoungd",
+        "name": "English-level-up-tips",
+        "html_url": "https://github.com/byoungd/English-level-up-tips",
+        "stars": 30228
+    },
+    {
+        "owner": "hasura",
+        "name": "graphql-engine",
+        "html_url": "https://github.com/hasura/graphql-engine",
+        "stars": 30160
+    },
+    {
+        "owner": "jgm",
+        "name": "pandoc",
+        "html_url": "https://github.com/jgm/pandoc",
+        "stars": 30155
+    },
+    {
+        "owner": "mqyqingfeng",
+        "name": "Blog",
+        "html_url": "https://github.com/mqyqingfeng/Blog",
+        "stars": 29950
+    },
+    {
+        "owner": "FuelLabs",
+        "name": "sway",
+        "html_url": "https://github.com/FuelLabs/sway",
+        "stars": 29771
+    },
+    {
+        "owner": "joshbuchea",
+        "name": "HEAD",
+        "html_url": "https://github.com/joshbuchea/HEAD",
+        "stars": 29754
+    },
+    {
+        "owner": "vuejs",
+        "name": "vue-cli",
+        "html_url": "https://github.com/vuejs/vue-cli",
+        "stars": 29704
+    },
+    {
+        "owner": "PKUanonym",
+        "name": "REKCARC-TSC-UHT",
+        "html_url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "stars": 29676
+    },
+    {
+        "owner": "alibaba",
+        "name": "p3c",
+        "html_url": "https://github.com/alibaba/p3c",
+        "stars": 29647
+    },
+    {
+        "owner": "httpie",
+        "name": "cli",
+        "html_url": "https://github.com/httpie/cli",
+        "stars": 29620
+    },
+    {
+        "owner": "harness",
+        "name": "gitness",
+        "html_url": "https://github.com/harness/gitness",
+        "stars": 29591
+    },
+    {
+        "owner": "lib-pku",
+        "name": "libpku",
+        "html_url": "https://github.com/lib-pku/libpku",
+        "stars": 29581
+    },
+    {
+        "owner": "goabstract",
+        "name": "Awesome-Design-Tools",
+        "html_url": "https://github.com/goabstract/Awesome-Design-Tools",
+        "stars": 29570
+    },
+    {
+        "owner": "foundation",
+        "name": "foundation-sites",
+        "html_url": "https://github.com/foundation/foundation-sites",
+        "stars": 29534
+    },
+    {
+        "owner": "ReactiveX",
+        "name": "rxjs",
+        "html_url": "https://github.com/ReactiveX/rxjs",
+        "stars": 29488
+    },
+    {
+        "owner": "ityouknow",
+        "name": "spring-boot-examples",
+        "html_url": "https://github.com/ityouknow/spring-boot-examples",
+        "stars": 29435
+    },
+    {
+        "owner": "novuhq",
+        "name": "novu",
+        "html_url": "https://github.com/novuhq/novu",
+        "stars": 29433
+    },
+    {
+        "owner": "amix",
+        "name": "vimrc",
+        "html_url": "https://github.com/amix/vimrc",
+        "stars": 29423
+    },
+    {
+        "owner": "zhongyang219",
+        "name": "TrafficMonitor",
+        "html_url": "https://github.com/zhongyang219/TrafficMonitor",
+        "stars": 29393
+    },
+    {
+        "owner": "appsmithorg",
+        "name": "appsmith",
+        "html_url": "https://github.com/appsmithorg/appsmith",
+        "stars": 29352
+    },
+    {
+        "owner": "mathiasbynens",
+        "name": "dotfiles",
+        "html_url": "https://github.com/mathiasbynens/dotfiles",
+        "stars": 29350
+    },
+    {
+        "owner": "ariya",
+        "name": "phantomjs",
+        "html_url": "https://github.com/ariya/phantomjs",
+        "stars": 29323
+    },
+    {
+        "owner": "ziadoz",
+        "name": "awesome-php",
+        "html_url": "https://github.com/ziadoz/awesome-php",
+        "stars": 29286
+    },
+    {
+        "owner": "ccxt",
+        "name": "ccxt",
+        "html_url": "https://github.com/ccxt/ccxt",
+        "stars": 29284
+    },
+    {
+        "owner": "react-boilerplate",
+        "name": "react-boilerplate",
+        "html_url": "https://github.com/react-boilerplate/react-boilerplate",
+        "stars": 29255
+    },
+    {
+        "owner": "Binaryify",
+        "name": "NeteaseCloudMusicApi",
+        "html_url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+        "stars": 29237
+    },
+    {
+        "owner": "CSSEGISandData",
+        "name": "COVID-19",
+        "html_url": "https://github.com/CSSEGISandData/COVID-19",
+        "stars": 29220
+    },
+    {
+        "owner": "lukehoban",
+        "name": "es6features",
+        "html_url": "https://github.com/lukehoban/es6features",
+        "stars": 29174
+    },
+    {
+        "owner": "solidjs",
+        "name": "solid",
+        "html_url": "https://github.com/solidjs/solid",
+        "stars": 29129
+    },
+    {
+        "owner": "alibaba",
+        "name": "easyexcel",
+        "html_url": "https://github.com/alibaba/easyexcel",
+        "stars": 29105
+    },
+    {
+        "owner": "sharkdp",
+        "name": "fd",
+        "html_url": "https://github.com/sharkdp/fd",
+        "stars": 29084
+    },
+    {
+        "owner": "trpc",
+        "name": "trpc",
+        "html_url": "https://github.com/trpc/trpc",
+        "stars": 29060
+    },
+    {
+        "owner": "KillianLucas",
+        "name": "open-interpreter",
+        "html_url": "https://github.com/KillianLucas/open-interpreter",
+        "stars": 29020
+    },
+    {
+        "owner": "TheAlgorithms",
+        "name": "JavaScript",
+        "html_url": "https://github.com/TheAlgorithms/JavaScript",
+        "stars": 29008
+    },
+    {
+        "owner": "files-community",
+        "name": "Files",
+        "html_url": "https://github.com/files-community/Files",
+        "stars": 29004
+    },
+    {
+        "owner": "The-Run-Philosophy-Organization",
+        "name": "run",
+        "html_url": "https://github.com/The-Run-Philosophy-Organization/run",
+        "stars": 28994
+    },
+    {
+        "owner": "airbnb",
+        "name": "lottie-web",
+        "html_url": "https://github.com/airbnb/lottie-web",
+        "stars": 28974
+    },
+    {
+        "owner": "photoprism",
+        "name": "photoprism",
+        "html_url": "https://github.com/photoprism/photoprism",
+        "stars": 28959
+    },
+    {
+        "owner": "halo-dev",
+        "name": "halo",
+        "html_url": "https://github.com/halo-dev/halo",
+        "stars": 28958
+    },
+    {
+        "owner": "elsewhencode",
+        "name": "project-guidelines",
+        "html_url": "https://github.com/elsewhencode/project-guidelines",
+        "stars": 28923
+    },
+    {
+        "owner": "fengdu78",
+        "name": "Coursera-ML-AndrewNg-Notes",
+        "html_url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+        "stars": 28904
+    },
+    {
+        "owner": "niklasvh",
+        "name": "html2canvas",
+        "html_url": "https://github.com/niklasvh/html2canvas",
+        "stars": 28899
+    },
+    {
+        "owner": "IanLunn",
+        "name": "Hover",
+        "html_url": "https://github.com/IanLunn/Hover",
+        "stars": 28808
+    },
+    {
+        "owner": "microsoft",
+        "name": "DeepSpeed",
+        "html_url": "https://github.com/microsoft/DeepSpeed",
+        "stars": 28801
+    },
+    {
+        "owner": "alebcay",
+        "name": "awesome-shell",
+        "html_url": "https://github.com/alebcay/awesome-shell",
+        "stars": 28770
+    },
+    {
+        "owner": "symfony",
+        "name": "symfony",
+        "html_url": "https://github.com/symfony/symfony",
+        "stars": 28768
+    },
+    {
+        "owner": "square",
+        "name": "leakcanary",
+        "html_url": "https://github.com/square/leakcanary",
+        "stars": 28754
+    },
+    {
+        "owner": "gofiber",
+        "name": "fiber",
+        "html_url": "https://github.com/gofiber/fiber",
+        "stars": 28715
+    },
+    {
+        "owner": "fastify",
+        "name": "fastify",
+        "html_url": "https://github.com/fastify/fastify",
+        "stars": 28714
+    },
+    {
+        "owner": "0xAX",
+        "name": "linux-insides",
+        "html_url": "https://github.com/0xAX/linux-insides",
+        "stars": 28693
+    },
+    {
+        "owner": "swc-project",
+        "name": "swc",
+        "html_url": "https://github.com/swc-project/swc",
+        "stars": 28664
+    },
+    {
+        "owner": "yewstack",
+        "name": "yew",
+        "html_url": "https://github.com/yewstack/yew",
+        "stars": 28619
+    },
+    {
+        "owner": "aosabook",
+        "name": "500lines",
+        "html_url": "https://github.com/aosabook/500lines",
+        "stars": 28590
+    },
+    {
+        "owner": "standard",
+        "name": "standard",
+        "html_url": "https://github.com/standard/standard",
+        "stars": 28555
+    },
+    {
+        "owner": "pcottle",
+        "name": "learnGitBranching",
+        "html_url": "https://github.com/pcottle/learnGitBranching",
+        "stars": 28529
+    },
+    {
+        "owner": "hashicorp",
+        "name": "vault",
+        "html_url": "https://github.com/hashicorp/vault",
+        "stars": 28500
+    },
+    {
+        "owner": "sequelize",
+        "name": "sequelize",
+        "html_url": "https://github.com/sequelize/sequelize",
+        "stars": 28488
+    },
+    {
+        "owner": "geekcomputers",
+        "name": "Python",
+        "html_url": "https://github.com/geekcomputers/Python",
+        "stars": 28450
+    },
+    {
+        "owner": "yichengchen",
+        "name": "clashX",
+        "html_url": "https://github.com/yichengchen/clashX",
+        "stars": 28427
+    },
+    {
+        "owner": "apolloconfig",
+        "name": "apollo",
+        "html_url": "https://github.com/apolloconfig/apollo",
+        "stars": 28380
+    },
+    {
+        "owner": "sqlmapproject",
+        "name": "sqlmap",
+        "html_url": "https://github.com/sqlmapproject/sqlmap",
+        "stars": 28354
+    },
+    {
+        "owner": "shengxinjing",
+        "name": "programmer-job-blacklist",
+        "html_url": "https://github.com/shengxinjing/programmer-job-blacklist",
+        "stars": 28349
+    },
+    {
+        "owner": "webtorrent",
+        "name": "webtorrent",
+        "html_url": "https://github.com/webtorrent/webtorrent",
+        "stars": 28344
+    },
+    {
+        "owner": "slidevjs",
+        "name": "slidev",
+        "html_url": "https://github.com/slidevjs/slidev",
+        "stars": 28320
+    },
+    {
+        "owner": "tastejs",
+        "name": "todomvc",
+        "html_url": "https://github.com/tastejs/todomvc",
+        "stars": 28318
+    },
+    {
+        "owner": "CMU-Perceptual-Computing-Lab",
+        "name": "openpose",
+        "html_url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+        "stars": 28307
+    },
+    {
+        "owner": "vuejs",
+        "name": "vuex",
+        "html_url": "https://github.com/vuejs/vuex",
+        "stars": 28262
+    },
+    {
+        "owner": "dani-garcia",
+        "name": "vaultwarden",
+        "html_url": "https://github.com/dani-garcia/vaultwarden",
+        "stars": 28239
+    },
+    {
+        "owner": "codepath",
+        "name": "android_guides",
+        "html_url": "https://github.com/codepath/android_guides",
+        "stars": 28176
+    },
+    {
+        "owner": "ibraheemdev",
+        "name": "modern-unix",
+        "html_url": "https://github.com/ibraheemdev/modern-unix",
+        "stars": 28157
+    },
+    {
+        "owner": "ray-project",
+        "name": "ray",
+        "html_url": "https://github.com/ray-project/ray",
+        "stars": 28139
+    },
+    {
+        "owner": "kenwheeler",
+        "name": "slick",
+        "html_url": "https://github.com/kenwheeler/slick",
+        "stars": 28097
+    },
+    {
+        "owner": "layui",
+        "name": "layui",
+        "html_url": "https://github.com/layui/layui",
+        "stars": 28094
+    },
+    {
+        "owner": "kodecocodes",
+        "name": "swift-algorithm-club",
+        "html_url": "https://github.com/kodecocodes/swift-algorithm-club",
+        "stars": 28083
+    },
+    {
+        "owner": "lm-sys",
+        "name": "FastChat",
+        "html_url": "https://github.com/lm-sys/FastChat",
+        "stars": 28083
+    },
+    {
+        "owner": "vercel",
+        "name": "swr",
+        "html_url": "https://github.com/vercel/swr",
+        "stars": 28082
+    },
+    {
+        "owner": "jashkenas",
+        "name": "backbone",
+        "html_url": "https://github.com/jashkenas/backbone",
+        "stars": 28024
+    },
+    {
+        "owner": "Kr328",
+        "name": "ClashForAndroid",
+        "html_url": "https://github.com/Kr328/ClashForAndroid",
+        "stars": 28001
+    },
+    {
+        "owner": "ianstormtaylor",
+        "name": "slate",
+        "html_url": "https://github.com/ianstormtaylor/slate",
+        "stars": 27995
+    },
+    {
+        "owner": "SeleniumHQ",
+        "name": "selenium",
+        "html_url": "https://github.com/SeleniumHQ/selenium",
+        "stars": 27959
+    },
+    {
+        "owner": "lapce",
+        "name": "lapce",
+        "html_url": "https://github.com/lapce/lapce",
+        "stars": 27942
+    },
+    {
+        "owner": "caolan",
+        "name": "async",
+        "html_url": "https://github.com/caolan/async",
+        "stars": 27938
+    },
+    {
+        "owner": "cockroachdb",
+        "name": "cockroach",
+        "html_url": "https://github.com/cockroachdb/cockroach",
+        "stars": 27925
+    },
+    {
+        "owner": "donnemartin",
+        "name": "interactive-coding-challenges",
+        "html_url": "https://github.com/donnemartin/interactive-coding-challenges",
+        "stars": 27904
+    },
+    {
+        "owner": "composer",
+        "name": "composer",
+        "html_url": "https://github.com/composer/composer",
+        "stars": 27893
+    },
+    {
+        "owner": "herrbischoff",
+        "name": "awesome-macos-command-line",
+        "html_url": "https://github.com/herrbischoff/awesome-macos-command-line",
+        "stars": 27876
+    },
+    {
+        "owner": "postcss",
+        "name": "postcss",
+        "html_url": "https://github.com/postcss/postcss",
+        "stars": 27837
+    },
+    {
+        "owner": "microsoft",
+        "name": "calculator",
+        "html_url": "https://github.com/microsoft/calculator",
+        "stars": 27824
+    },
+    {
+        "owner": "streamlit",
+        "name": "streamlit",
+        "html_url": "https://github.com/streamlit/streamlit",
+        "stars": 27821
+    },
+    {
+        "owner": "geekan",
+        "name": "MetaGPT",
+        "html_url": "https://github.com/geekan/MetaGPT",
+        "stars": 27718
+    },
+    {
+        "owner": "trailofbits",
+        "name": "algo",
+        "html_url": "https://github.com/trailofbits/algo",
+        "stars": 27690
+    },
+    {
+        "owner": "VincentGarreau",
+        "name": "particles.js",
+        "html_url": "https://github.com/VincentGarreau/particles.js",
+        "stars": 27665
+    },
+    {
+        "owner": "facebookresearch",
+        "name": "fairseq",
+        "html_url": "https://github.com/facebookresearch/fairseq",
+        "stars": 27663
+    },
+    {
+        "owner": "geekan",
+        "name": "HowToLiveLonger",
+        "html_url": "https://github.com/geekan/HowToLiveLonger",
+        "stars": 27660
+    },
+    {
+        "owner": "alibaba",
+        "name": "nacos",
+        "html_url": "https://github.com/alibaba/nacos",
+        "stars": 27650
+    },
+    {
+        "owner": "zsh-users",
+        "name": "zsh-autosuggestions",
+        "html_url": "https://github.com/zsh-users/zsh-autosuggestions",
+        "stars": 27636
+    },
+    {
+        "owner": "ryanhanwu",
+        "name": "How-To-Ask-Questions-The-Smart-Way",
+        "html_url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+        "stars": 27605
+    },
+    {
+        "owner": "SortableJS",
+        "name": "Sortable",
+        "html_url": "https://github.com/SortableJS/Sortable",
+        "stars": 27545
+    },
+    {
+        "owner": "yunjey",
+        "name": "pytorch-tutorial",
+        "html_url": "https://github.com/yunjey/pytorch-tutorial",
+        "stars": 27510
+    },
+    {
+        "owner": "transloadit",
+        "name": "uppy",
+        "html_url": "https://github.com/transloadit/uppy",
+        "stars": 27411
+    },
+    {
+        "owner": "parallax",
+        "name": "jsPDF",
+        "html_url": "https://github.com/parallax/jsPDF",
+        "stars": 27387
+    },
+    {
+        "owner": "acheong08",
+        "name": "ChatGPT",
+        "html_url": "https://github.com/acheong08/ChatGPT",
+        "stars": 27366
+    },
+    {
+        "owner": "kubernetes",
+        "name": "minikube",
+        "html_url": "https://github.com/kubernetes/minikube",
+        "stars": 27340
+    },
+    {
+        "owner": "ehang-io",
+        "name": "nps",
+        "html_url": "https://github.com/ehang-io/nps",
+        "stars": 27316
+    },
+    {
+        "owner": "explosion",
+        "name": "spaCy",
+        "html_url": "https://github.com/explosion/spaCy",
+        "stars": 27293
+    },
+    {
+        "owner": "suno-ai",
+        "name": "bark",
+        "html_url": "https://github.com/suno-ai/bark",
+        "stars": 27256
+    },
+    {
+        "owner": "alibaba",
+        "name": "druid",
+        "html_url": "https://github.com/alibaba/druid",
+        "stars": 27252
+    },
+    {
+        "owner": "ZuzooVn",
+        "name": "machine-learning-for-software-engineers",
+        "html_url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+        "stars": 27245
+    },
+    {
+        "owner": "dromara",
+        "name": "hutool",
+        "html_url": "https://github.com/dromara/hutool",
+        "stars": 27215
+    },
+    {
+        "owner": "OAI",
+        "name": "OpenAPI-Specification",
+        "html_url": "https://github.com/OAI/OpenAPI-Specification",
+        "stars": 27195
+    },
+    {
+        "owner": "Chanzhaoyu",
+        "name": "chatgpt-web",
+        "html_url": "https://github.com/Chanzhaoyu/chatgpt-web",
+        "stars": 27194
+    },
+    {
+        "owner": "coolsnowwolf",
+        "name": "lede",
+        "html_url": "https://github.com/coolsnowwolf/lede",
+        "stars": 27184
+    },
+    {
+        "owner": "bevyengine",
+        "name": "bevy",
+        "html_url": "https://github.com/bevyengine/bevy",
+        "stars": 27165
+    },
+    {
+        "owner": "GoogleChrome",
+        "name": "lighthouse",
+        "html_url": "https://github.com/GoogleChrome/lighthouse",
+        "stars": 27136
+    },
+    {
+        "owner": "qishibo",
+        "name": "AnotherRedisDesktopManager",
+        "html_url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+        "stars": 27115
+    },
+    {
+        "owner": "huggingface",
+        "name": "pytorch-image-models",
+        "html_url": "https://github.com/huggingface/pytorch-image-models",
+        "stars": 27089
+    },
+    {
+        "owner": "jobbole",
+        "name": "awesome-python-cn",
+        "html_url": "https://github.com/jobbole/awesome-python-cn",
+        "stars": 27078
+    },
+    {
+        "owner": "Homebrew",
+        "name": "legacy-homebrew",
+        "html_url": "https://github.com/Homebrew/legacy-homebrew",
+        "stars": 27077
+    },
+    {
+        "owner": "jashkenas",
+        "name": "underscore",
+        "html_url": "https://github.com/jashkenas/underscore",
+        "stars": 27076
+    },
+    {
+        "owner": "danielgindi",
+        "name": "Charts",
+        "html_url": "https://github.com/danielgindi/Charts",
+        "stars": 27039
+    },
+    {
+        "owner": "Advanced-Frontend",
+        "name": "Daily-Interview-Question",
+        "html_url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+        "stars": 27027
+    },
+    {
+        "owner": "hashicorp",
+        "name": "consul",
+        "html_url": "https://github.com/hashicorp/consul",
+        "stars": 27021
+    },
+    {
+        "owner": "crossoverJie",
+        "name": "JCSprout",
+        "html_url": "https://github.com/crossoverJie/JCSprout",
+        "stars": 27000
+    },
+    {
+        "owner": "Ebazhanov",
+        "name": "linkedin-skill-assessments-quizzes",
+        "html_url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+        "stars": 26982
+    },
+    {
+        "owner": "cheeriojs",
+        "name": "cheerio",
+        "html_url": "https://github.com/cheeriojs/cheerio",
+        "stars": 26973
+    },
+    {
+        "owner": "python-poetry",
+        "name": "poetry",
+        "html_url": "https://github.com/python-poetry/poetry",
+        "stars": 26967
+    },
+    {
+        "owner": "tatsu-lab",
+        "name": "stanford_alpaca",
+        "html_url": "https://github.com/tatsu-lab/stanford_alpaca",
+        "stars": 26964
+    },
+    {
+        "owner": "Tencent",
+        "name": "weui",
+        "html_url": "https://github.com/Tencent/weui",
+        "stars": 26943
+    },
+    {
+        "owner": "AMAI-GmbH",
+        "name": "AI-Expert-Roadmap",
+        "html_url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+        "stars": 26937
+    },
+    {
+        "owner": "reworkd",
+        "name": "AgentGPT",
+        "html_url": "https://github.com/reworkd/AgentGPT",
+        "stars": 26881
+    },
+    {
+        "owner": "floating-ui",
+        "name": "floating-ui",
+        "html_url": "https://github.com/floating-ui/floating-ui",
+        "stars": 26851
+    },
+    {
+        "owner": "jqlang",
+        "name": "jq",
+        "html_url": "https://github.com/jqlang/jq",
+        "stars": 26836
+    },
+    {
+        "owner": "facebookresearch",
+        "name": "detectron2",
+        "html_url": "https://github.com/facebookresearch/detectron2",
+        "stars": 26816
+    },
+    {
+        "owner": "alibaba",
+        "name": "canal",
+        "html_url": "https://github.com/alibaba/canal",
+        "stars": 26805
+    },
+    {
+        "owner": "realpython",
+        "name": "python-guide",
+        "html_url": "https://github.com/realpython/python-guide",
+        "stars": 26802
+    },
+    {
+        "owner": "labstack",
+        "name": "echo",
+        "html_url": "https://github.com/labstack/echo",
+        "stars": 26797
+    },
+    {
+        "owner": "portainer",
+        "name": "portainer",
+        "html_url": "https://github.com/portainer/portainer",
+        "stars": 26792
+    },
+    {
+        "owner": "fzaninotto",
+        "name": "Faker",
+        "html_url": "https://github.com/fzaninotto/Faker",
+        "stars": 26766
+    },
+    {
+        "owner": "mobxjs",
+        "name": "mobx",
+        "html_url": "https://github.com/mobxjs/mobx",
+        "stars": 26758
+    },
+    {
+        "owner": "nushell",
+        "name": "nushell",
+        "html_url": "https://github.com/nushell/nushell",
+        "stars": 26727
+    },
+    {
+        "owner": "lukasz-madon",
+        "name": "awesome-remote-job",
+        "html_url": "https://github.com/lukasz-madon/awesome-remote-job",
+        "stars": 26718
+    },
+    {
+        "owner": "nagadomi",
+        "name": "waifu2x",
+        "html_url": "https://github.com/nagadomi/waifu2x",
+        "stars": 26672
+    },
+    {
+        "owner": "houshanren",
+        "name": "hangzhou_house_knowledge",
+        "html_url": "https://github.com/houshanren/hangzhou_house_knowledge",
+        "stars": 26639
+    },
+    {
+        "owner": "JedWatson",
+        "name": "react-select",
+        "html_url": "https://github.com/JedWatson/react-select",
+        "stars": 26632
+    },
+    {
+        "owner": "YMFE",
+        "name": "yapi",
+        "html_url": "https://github.com/YMFE/yapi",
+        "stars": 26560
+    },
+    {
+        "owner": "Asabeneh",
+        "name": "30-Days-Of-Python",
+        "html_url": "https://github.com/Asabeneh/30-Days-Of-Python",
+        "stars": 26552
+    },
+    {
+        "owner": "mattermost",
+        "name": "mattermost",
+        "html_url": "https://github.com/mattermost/mattermost",
+        "stars": 26538
+    },
+    {
+        "owner": "veggiemonk",
+        "name": "awesome-docker",
+        "html_url": "https://github.com/veggiemonk/awesome-docker",
+        "stars": 26501
+    },
+    {
+        "owner": "alibaba",
+        "name": "spring-cloud-alibaba",
+        "html_url": "https://github.com/alibaba/spring-cloud-alibaba",
+        "stars": 26498
+    },
+    {
+        "owner": "encode",
+        "name": "django-rest-framework",
+        "html_url": "https://github.com/encode/django-rest-framework",
+        "stars": 26464
+    },
+    {
+        "owner": "pmndrs",
+        "name": "react-spring",
+        "html_url": "https://github.com/pmndrs/react-spring",
+        "stars": 26463
+    },
+    {
+        "owner": "influxdata",
+        "name": "influxdb",
+        "html_url": "https://github.com/influxdata/influxdb",
+        "stars": 26461
+    },
+    {
+        "owner": "geekcompany",
+        "name": "ResumeSample",
+        "html_url": "https://github.com/geekcompany/ResumeSample",
+        "stars": 26455
+    },
+    {
+        "owner": "balena-io",
+        "name": "etcher",
+        "html_url": "https://github.com/balena-io/etcher",
+        "stars": 26432
+    },
+    {
+        "owner": "lovell",
+        "name": "sharp",
+        "html_url": "https://github.com/lovell/sharp",
+        "stars": 26410
+    },
+    {
+        "owner": "lenve",
+        "name": "vhr",
+        "html_url": "https://github.com/lenve/vhr",
+        "stars": 26394
+    },
+    {
+        "owner": "ziglang",
+        "name": "zig",
+        "html_url": "https://github.com/ziglang/zig",
+        "stars": 26378
+    },
+    {
+        "owner": "DIYgod",
+        "name": "RSSHub",
+        "html_url": "https://github.com/DIYgod/RSSHub",
+        "stars": 26320
+    },
+    {
+        "owner": "pocketbase",
+        "name": "pocketbase",
+        "html_url": "https://github.com/pocketbase/pocketbase",
+        "stars": 26314
+    },
+    {
+        "owner": "nvie",
+        "name": "gitflow",
+        "html_url": "https://github.com/nvie/gitflow",
+        "stars": 26303
+    },
+    {
+        "owner": "digitalocean",
+        "name": "nginxconfig.io",
+        "html_url": "https://github.com/digitalocean/nginxconfig.io",
+        "stars": 26291
+    },
+    {
+        "owner": "rethinkdb",
+        "name": "rethinkdb",
+        "html_url": "https://github.com/rethinkdb/rethinkdb",
+        "stars": 26273
+    },
+    {
+        "owner": "TheAlgorithms",
+        "name": "C-Plus-Plus",
+        "html_url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+        "stars": 26261
+    },
+    {
+        "owner": "angular",
+        "name": "angular-cli",
+        "html_url": "https://github.com/angular/angular-cli",
+        "stars": 26249
+    },
+    {
+        "owner": "AllThingsSmitty",
+        "name": "css-protips",
+        "html_url": "https://github.com/AllThingsSmitty/css-protips",
+        "stars": 26205
+    },
+    {
+        "owner": "codemirror",
+        "name": "codemirror5",
+        "html_url": "https://github.com/codemirror/codemirror5",
+        "stars": 26202
+    },
+    {
+        "owner": "docker",
+        "name": "awesome-compose",
+        "html_url": "https://github.com/docker/awesome-compose",
+        "stars": 26197
+    },
+    {
+        "owner": "wuyouzhuguli",
+        "name": "SpringAll",
+        "html_url": "https://github.com/wuyouzhuguli/SpringAll",
+        "stars": 26194
+    },
+    {
+        "owner": "SerenityOS",
+        "name": "serenity",
+        "html_url": "https://github.com/SerenityOS/serenity",
+        "stars": 26153
+    },
+    {
+        "owner": "remoteintech",
+        "name": "remote-jobs",
+        "html_url": "https://github.com/remoteintech/remote-jobs",
+        "stars": 26148
+    },
+    {
+        "owner": "facebook",
+        "name": "rocksdb",
+        "html_url": "https://github.com/facebook/rocksdb",
+        "stars": 26127
+    },
+    {
+        "owner": "facebook",
+        "name": "folly",
+        "html_url": "https://github.com/facebook/folly",
+        "stars": 26124
+    },
+    {
+        "owner": "Automattic",
+        "name": "mongoose",
+        "html_url": "https://github.com/Automattic/mongoose",
+        "stars": 26074
+    },
+    {
+        "owner": "viraptor",
+        "name": "reverse-interview",
+        "html_url": "https://github.com/viraptor/reverse-interview",
+        "stars": 26057
+    },
+    {
+        "owner": "immerjs",
+        "name": "immer",
+        "html_url": "https://github.com/immerjs/immer",
+        "stars": 26009
+    },
+    {
+        "owner": "apache",
+        "name": "kafka",
+        "html_url": "https://github.com/apache/kafka",
+        "stars": 25993
+    },
+    {
+        "owner": "tqdm",
+        "name": "tqdm",
+        "html_url": "https://github.com/tqdm/tqdm",
+        "stars": 25962
+    },
+    {
+        "owner": "ajaxorg",
+        "name": "ace",
+        "html_url": "https://github.com/ajaxorg/ace",
+        "stars": 25955
+    },
+    {
+        "owner": "facebookresearch",
+        "name": "Detectron",
+        "html_url": "https://github.com/facebookresearch/Detectron",
+        "stars": 25953
+    },
+    {
+        "owner": "fabricjs",
+        "name": "fabric.js",
+        "html_url": "https://github.com/fabricjs/fabric.js",
+        "stars": 25941
+    },
+    {
+        "owner": "jamiebuilds",
+        "name": "the-super-tiny-compiler",
+        "html_url": "https://github.com/jamiebuilds/the-super-tiny-compiler",
+        "stars": 25938
+    },
+    {
+        "owner": "CamDavidsonPilon",
+        "name": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+        "html_url": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+        "stars": 25898
+    },
+    {
+        "owner": "colinhacks",
+        "name": "zod",
+        "html_url": "https://github.com/colinhacks/zod",
+        "stars": 25860
+    },
+    {
+        "owner": "GitbookIO",
+        "name": "gitbook",
+        "html_url": "https://github.com/GitbookIO/gitbook",
+        "stars": 25852
+    },
+    {
+        "owner": "zeromicro",
+        "name": "go-zero",
+        "html_url": "https://github.com/zeromicro/go-zero",
+        "stars": 25808
+    },
+    {
+        "owner": "JakeChampion",
+        "name": "fetch",
+        "html_url": "https://github.com/JakeChampion/fetch",
+        "stars": 25773
+    },
+    {
+        "owner": "AykutSarac",
+        "name": "jsoncrack.com",
+        "html_url": "https://github.com/AykutSarac/jsoncrack.com",
+        "stars": 25751
+    },
+    {
+        "owner": "ageron",
+        "name": "handson-ml2",
+        "html_url": "https://github.com/ageron/handson-ml2",
+        "stars": 25722
+    },
+    {
+        "owner": "select2",
+        "name": "select2",
+        "html_url": "https://github.com/select2/select2",
+        "stars": 25708
+    },
+    {
+        "owner": "logseq",
+        "name": "logseq",
+        "html_url": "https://github.com/logseq/logseq",
+        "stars": 25707
+    },
+    {
+        "owner": "open-mmlab",
+        "name": "mmdetection",
+        "html_url": "https://github.com/open-mmlab/mmdetection",
+        "stars": 25701
+    },
+    {
+        "owner": "donnemartin",
+        "name": "data-science-ipython-notebooks",
+        "html_url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+        "stars": 25669
+    },
+    {
+        "owner": "pnpm",
+        "name": "pnpm",
+        "html_url": "https://github.com/pnpm/pnpm",
+        "stars": 25660
+    },
+    {
+        "owner": "jellyfin",
+        "name": "jellyfin",
+        "html_url": "https://github.com/jellyfin/jellyfin",
+        "stars": 25654
+    },
+    {
+        "owner": "cfenollosa",
+        "name": "os-tutorial",
+        "html_url": "https://github.com/cfenollosa/os-tutorial",
+        "stars": 25651
+    },
+    {
+        "owner": "request",
+        "name": "request",
+        "html_url": "https://github.com/request/request",
+        "stars": 25641
+    },
+    {
+        "owner": "ShareX",
+        "name": "ShareX",
+        "html_url": "https://github.com/ShareX/ShareX",
+        "stars": 25621
+    },
+    {
+        "owner": "1c7",
+        "name": "chinese-independent-developer",
+        "html_url": "https://github.com/1c7/chinese-independent-developer",
+        "stars": 25613
+    },
+    {
+        "owner": "JakeWharton",
+        "name": "butterknife",
+        "html_url": "https://github.com/JakeWharton/butterknife",
+        "stars": 25600
+    },
+    {
+        "owner": "remy",
+        "name": "nodemon",
+        "html_url": "https://github.com/remy/nodemon",
+        "stars": 25599
+    },
+    {
+        "owner": "rstacruz",
+        "name": "nprogress",
+        "html_url": "https://github.com/rstacruz/nprogress",
+        "stars": 25585
+    },
+    {
+        "owner": "Modernizr",
+        "name": "Modernizr",
+        "html_url": "https://github.com/Modernizr/Modernizr",
+        "stars": 25560
+    },
+    {
+        "owner": "TeamNewPipe",
+        "name": "NewPipe",
+        "html_url": "https://github.com/TeamNewPipe/NewPipe",
+        "stars": 25528
+    },
+    {
+        "owner": "go-kit",
+        "name": "kit",
+        "html_url": "https://github.com/go-kit/kit",
+        "stars": 25503
+    },
+    {
+        "owner": "alibaba",
+        "name": "fastjson",
+        "html_url": "https://github.com/alibaba/fastjson",
+        "stars": 25459
+    },
+    {
+        "owner": "bvaughn",
+        "name": "react-virtualized",
+        "html_url": "https://github.com/bvaughn/react-virtualized",
+        "stars": 25404
+    },
+    {
+        "owner": "hashicorp",
+        "name": "vagrant",
+        "html_url": "https://github.com/hashicorp/vagrant",
+        "stars": 25390
+    },
+    {
+        "owner": "ascoders",
+        "name": "weekly",
+        "html_url": "https://github.com/ascoders/weekly",
+        "stars": 25374
+    },
+    {
+        "owner": "wesbos",
+        "name": "JavaScript30",
+        "html_url": "https://github.com/wesbos/JavaScript30",
+        "stars": 25366
+    },
+    {
+        "owner": "tj",
+        "name": "commander.js",
+        "html_url": "https://github.com/tj/commander.js",
+        "stars": 25348
+    },
+    {
+        "owner": "google",
+        "name": "python-fire",
+        "html_url": "https://github.com/google/python-fire",
+        "stars": 25336
+    },
+    {
+        "owner": "termux",
+        "name": "termux-app",
+        "html_url": "https://github.com/termux/termux-app",
+        "stars": 25311
+    },
+    {
+        "owner": "kilimchoi",
+        "name": "engineering-blogs",
+        "html_url": "https://github.com/kilimchoi/engineering-blogs",
+        "stars": 25304
+    },
+    {
+        "owner": "xuxueli",
+        "name": "xxl-job",
+        "html_url": "https://github.com/xuxueli/xxl-job",
+        "stars": 25296
+    },
+    {
+        "owner": "jaywcjlove",
+        "name": "linux-command",
+        "html_url": "https://github.com/jaywcjlove/linux-command",
+        "stars": 25278
+    },
+    {
+        "owner": "ggreer",
+        "name": "the_silver_searcher",
+        "html_url": "https://github.com/ggreer/the_silver_searcher",
+        "stars": 25234
+    },
+    {
+        "owner": "GorvGoyl",
+        "name": "Clone-Wars",
+        "html_url": "https://github.com/GorvGoyl/Clone-Wars",
+        "stars": 25219
+    },
+    {
+        "owner": "karpathy",
+        "name": "nanoGPT",
+        "html_url": "https://github.com/karpathy/nanoGPT",
+        "stars": 25174
+    },
+    {
+        "owner": "docsifyjs",
+        "name": "docsify",
+        "html_url": "https://github.com/docsifyjs/docsify",
+        "stars": 25167
+    },
+    {
+        "owner": "helix-editor",
+        "name": "helix",
+        "html_url": "https://github.com/helix-editor/helix",
+        "stars": 25153
+    },
+    {
+        "owner": "saadeghi",
+        "name": "daisyui",
+        "html_url": "https://github.com/saadeghi/daisyui",
+        "stars": 25149
+    },
+    {
+        "owner": "dwmkerr",
+        "name": "hacker-laws",
+        "html_url": "https://github.com/dwmkerr/hacker-laws",
+        "stars": 25116
+    },
+    {
+        "owner": "cmderdev",
+        "name": "cmder",
+        "html_url": "https://github.com/cmderdev/cmder",
+        "stars": 25113
+    },
+    {
+        "owner": "facebookresearch",
+        "name": "fastText",
+        "html_url": "https://github.com/facebookresearch/fastText",
+        "stars": 25076
+    },
+    {
+        "owner": "dokku",
+        "name": "dokku",
+        "html_url": "https://github.com/dokku/dokku",
+        "stars": 25046
+    },
+    {
+        "owner": "ageron",
+        "name": "handson-ml",
+        "html_url": "https://github.com/ageron/handson-ml",
+        "stars": 25039
+    },
+    {
+        "owner": "helm",
+        "name": "helm",
+        "html_url": "https://github.com/helm/helm",
+        "stars": 25038
+    },
+    {
+        "owner": "alpinejs",
+        "name": "alpine",
+        "html_url": "https://github.com/alpinejs/alpine",
+        "stars": 25034
+    },
+    {
+        "owner": "proxyee-down-org",
+        "name": "proxyee-down",
+        "html_url": "https://github.com/proxyee-down-org/proxyee-down",
+        "stars": 24995
+    },
+    {
+        "owner": "ycm-core",
+        "name": "YouCompleteMe",
+        "html_url": "https://github.com/ycm-core/YouCompleteMe",
+        "stars": 24984
+    },
+    {
+        "owner": "Pierian-Data",
+        "name": "Complete-Python-3-Bootcamp",
+        "html_url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+        "stars": 24971
+    },
+    {
+        "owner": "qier222",
+        "name": "YesPlayMusic",
+        "html_url": "https://github.com/qier222/YesPlayMusic",
+        "stars": 24966
+    },
+    {
+        "owner": "oobabooga",
+        "name": "text-generation-webui",
+        "html_url": "https://github.com/oobabooga/text-generation-webui",
+        "stars": 24965
+    },
+    {
+        "owner": "Ryujinx",
+        "name": "Ryujinx",
+        "html_url": "https://github.com/Ryujinx/Ryujinx",
+        "stars": 24947
+    },
+    {
+        "owner": "google",
+        "name": "jax",
+        "html_url": "https://github.com/google/jax",
+        "stars": 24940
+    },
+    {
+        "owner": "powerline",
+        "name": "fonts",
+        "html_url": "https://github.com/powerline/fonts",
+        "stars": 24940
+    },
+    {
+        "owner": "hollischuang",
+        "name": "toBeTopJavaer",
+        "html_url": "https://github.com/hollischuang/toBeTopJavaer",
+        "stars": 24924
+    },
+    {
+        "owner": "statelyai",
+        "name": "xstate",
+        "html_url": "https://github.com/statelyai/xstate",
+        "stars": 24887
+    },
+    {
+        "owner": "SimplifyJobs",
+        "name": "Summer2024-Internships",
+        "html_url": "https://github.com/SimplifyJobs/Summer2024-Internships",
+        "stars": 24854
+    },
+    {
+        "owner": "tachiyomiorg",
+        "name": "tachiyomi",
+        "html_url": "https://github.com/tachiyomiorg/tachiyomi",
+        "stars": 24840
+    },
+    {
+        "owner": "remix-run",
+        "name": "remix",
+        "html_url": "https://github.com/remix-run/remix",
+        "stars": 24838
+    },
+    {
+        "owner": "pbatard",
+        "name": "rufus",
+        "html_url": "https://github.com/pbatard/rufus",
+        "stars": 24832
+    },
+    {
+        "owner": "Lightning-AI",
+        "name": "lightning",
+        "html_url": "https://github.com/Lightning-AI/lightning",
+        "stars": 24831
+    },
+    {
+        "owner": "OWASP",
+        "name": "CheatSheetSeries",
+        "html_url": "https://github.com/OWASP/CheatSheetSeries",
+        "stars": 24812
+    },
+    {
+        "owner": "eugeneyan",
+        "name": "applied-ml",
+        "html_url": "https://github.com/eugeneyan/applied-ml",
+        "stars": 24806
+    },
+    {
+        "owner": "mbeaudru",
+        "name": "modern-js-cheatsheet",
+        "html_url": "https://github.com/mbeaudru/modern-js-cheatsheet",
+        "stars": 24806
+    },
+    {
+        "owner": "dmlc",
+        "name": "xgboost",
+        "html_url": "https://github.com/dmlc/xgboost",
+        "stars": 24802
+    },
+    {
+        "owner": "facebookresearch",
+        "name": "faiss",
+        "html_url": "https://github.com/facebookresearch/faiss",
+        "stars": 24795
+    },
+    {
+        "owner": "nylas",
+        "name": "nylas-mail",
+        "html_url": "https://github.com/nylas/nylas-mail",
+        "stars": 24765
+    },
+    {
+        "owner": "terryum",
+        "name": "awesome-deep-learning-papers",
+        "html_url": "https://github.com/terryum/awesome-deep-learning-papers",
+        "stars": 24755
+    },
+    {
+        "owner": "akveo",
+        "name": "ngx-admin",
+        "html_url": "https://github.com/akveo/ngx-admin",
+        "stars": 24738
+    },
+    {
+        "owner": "sindresorhus",
+        "name": "awesome-electron",
+        "html_url": "https://github.com/sindresorhus/awesome-electron",
+        "stars": 24733
+    },
+    {
+        "owner": "numpy",
+        "name": "numpy",
+        "html_url": "https://github.com/numpy/numpy",
+        "stars": 24709
+    },
+    {
+        "owner": "SDWebImage",
+        "name": "SDWebImage",
+        "html_url": "https://github.com/SDWebImage/SDWebImage",
+        "stars": 24682
+    },
+    {
+        "owner": "k3s-io",
+        "name": "k3s",
+        "html_url": "https://github.com/k3s-io/k3s",
+        "stars": 24680
+    },
+    {
+        "owner": "vadimdemedes",
+        "name": "ink",
+        "html_url": "https://github.com/vadimdemedes/ink",
+        "stars": 24677
+    },
+    {
+        "owner": "pjreddie",
+        "name": "darknet",
+        "html_url": "https://github.com/pjreddie/darknet",
+        "stars": 24672
+    },
+    {
+        "owner": "schollz",
+        "name": "croc",
+        "html_url": "https://github.com/schollz/croc",
+        "stars": 24660
+    },
+    {
+        "owner": "fastai",
+        "name": "fastai",
+        "html_url": "https://github.com/fastai/fastai",
+        "stars": 24595
+    },
+    {
+        "owner": "swagger-api",
+        "name": "swagger-ui",
+        "html_url": "https://github.com/swagger-api/swagger-ui",
+        "stars": 24581
+    },
+    {
+        "owner": "GitHubDaily",
+        "name": "GitHubDaily",
+        "html_url": "https://github.com/GitHubDaily/GitHubDaily",
+        "stars": 24554
+    },
+    {
+        "owner": "codex-team",
+        "name": "editor.js",
+        "html_url": "https://github.com/codex-team/editor.js",
+        "stars": 24553
+    },
+    {
+        "owner": "OpenBB-finance",
+        "name": "OpenBBTerminal",
+        "html_url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+        "stars": 24522
+    },
+    {
+        "owner": "zhiwehu",
+        "name": "Python-programming-exercises",
+        "html_url": "https://github.com/zhiwehu/Python-programming-exercises",
+        "stars": 24518
+    },
+    {
+        "owner": "mongodb",
+        "name": "mongo",
+        "html_url": "https://github.com/mongodb/mongo",
+        "stars": 24502
+    },
+    {
+        "owner": "airbnb",
+        "name": "lottie-ios",
+        "html_url": "https://github.com/airbnb/lottie-ios",
+        "stars": 24497
+    },
+    {
+        "owner": "spipm",
+        "name": "Depix",
+        "html_url": "https://github.com/spipm/Depix",
+        "stars": 24496
+    },
+    {
+        "owner": "michalsnik",
+        "name": "aos",
+        "html_url": "https://github.com/michalsnik/aos",
+        "stars": 24489
+    },
+    {
+        "owner": "greenrobot",
+        "name": "EventBus",
+        "html_url": "https://github.com/greenrobot/EventBus",
+        "stars": 24446
+    },
+    {
+        "owner": "dotnet-architecture",
+        "name": "eShopOnContainers",
+        "html_url": "https://github.com/dotnet-architecture/eShopOnContainers",
+        "stars": 24442
+    },
+    {
+        "owner": "sampotts",
+        "name": "plyr",
+        "html_url": "https://github.com/sampotts/plyr",
+        "stars": 24426
+    },
+    {
+        "owner": "scwang90",
+        "name": "SmartRefreshLayout",
+        "html_url": "https://github.com/scwang90/SmartRefreshLayout",
+        "stars": 24415
+    },
+    {
+        "owner": "kataras",
+        "name": "iris",
+        "html_url": "https://github.com/kataras/iris",
+        "stars": 24397
+    },
+    {
+        "owner": "quasarframework",
+        "name": "quasar",
+        "html_url": "https://github.com/quasarframework/quasar",
+        "stars": 24375
+    },
+    {
+        "owner": "seata",
+        "name": "seata",
+        "html_url": "https://github.com/seata/seata",
+        "stars": 24356
+    },
+    {
+        "owner": "emscripten-core",
+        "name": "emscripten",
+        "html_url": "https://github.com/emscripten-core/emscripten",
+        "stars": 24345
+    },
+    {
+        "owner": "littlecodersh",
+        "name": "ItChat",
+        "html_url": "https://github.com/littlecodersh/ItChat",
+        "stars": 24291
+    },
+    {
+        "owner": "lllyasviel",
+        "name": "ControlNet",
+        "html_url": "https://github.com/lllyasviel/ControlNet",
+        "stars": 24261
+    },
+    {
+        "owner": "spf13",
+        "name": "viper",
+        "html_url": "https://github.com/spf13/viper",
+        "stars": 24208
+    },
+    {
+        "owner": "rome",
+        "name": "tools",
+        "html_url": "https://github.com/rome/tools",
+        "stars": 24197
+    },
+    {
+        "owner": "pypa",
+        "name": "pipenv",
+        "html_url": "https://github.com/pypa/pipenv",
+        "stars": 24177
+    },
+    {
+        "owner": "dnSpy",
+        "name": "dnSpy",
+        "html_url": "https://github.com/dnSpy/dnSpy",
+        "stars": 24170
+    },
+    {
+        "owner": "lutzroeder",
+        "name": "netron",
+        "html_url": "https://github.com/lutzroeder/netron",
+        "stars": 24165
+    },
+    {
+        "owner": "ToolJet",
+        "name": "ToolJet",
+        "html_url": "https://github.com/ToolJet/ToolJet",
+        "stars": 24126
+    },
+    {
+        "owner": "signalapp",
+        "name": "Signal-Android",
+        "html_url": "https://github.com/signalapp/Signal-Android",
+        "stars": 24104
+    },
+    {
+        "owner": "coder2gwy",
+        "name": "coder2gwy",
+        "html_url": "https://github.com/coder2gwy/coder2gwy",
+        "stars": 24091
+    },
+    {
+        "owner": "2dust",
+        "name": "v2rayNG",
+        "html_url": "https://github.com/2dust/v2rayNG",
+        "stars": 24069
+    },
+    {
+        "owner": "pmndrs",
+        "name": "react-three-fiber",
+        "html_url": "https://github.com/pmndrs/react-three-fiber",
+        "stars": 24064
+    },
+    {
+        "owner": "react-native-elements",
+        "name": "react-native-elements",
+        "html_url": "https://github.com/react-native-elements/react-native-elements",
+        "stars": 24057
+    },
+    {
+        "owner": "v2fly",
+        "name": "v2ray-core",
+        "html_url": "https://github.com/v2fly/v2ray-core",
+        "stars": 24045
+    },
+    {
+        "owner": "haizlin",
+        "name": "fe-interview",
+        "html_url": "https://github.com/haizlin/fe-interview",
+        "stars": 24038
+    },
+    {
+        "owner": "discordjs",
+        "name": "discord.js",
+        "html_url": "https://github.com/discordjs/discord.js",
+        "stars": 24026
+    },
+    {
+        "owner": "iview",
+        "name": "iview",
+        "html_url": "https://github.com/iview/iview",
+        "stars": 23990
+    },
+    {
+        "owner": "MichaelCade",
+        "name": "90DaysOfDevOps",
+        "html_url": "https://github.com/MichaelCade/90DaysOfDevOps",
+        "stars": 23987
+    },
+    {
+        "owner": "servo",
+        "name": "servo",
+        "html_url": "https://github.com/servo/servo",
+        "stars": 23981
+    },
+    {
+        "owner": "rollup",
+        "name": "rollup",
+        "html_url": "https://github.com/rollup/rollup",
+        "stars": 23976
+    },
+    {
+        "owner": "qianguyihao",
+        "name": "Web",
+        "html_url": "https://github.com/qianguyihao/Web",
+        "stars": 23974
+    },
+    {
+        "owner": "StevenBlack",
+        "name": "hosts",
+        "html_url": "https://github.com/StevenBlack/hosts",
+        "stars": 23966
+    },
+    {
+        "owner": "johnpapa",
+        "name": "angular-styleguide",
+        "html_url": "https://github.com/johnpapa/angular-styleguide",
+        "stars": 23966
+    },
+    {
+        "owner": "nextcloud",
+        "name": "server",
+        "html_url": "https://github.com/nextcloud/server",
+        "stars": 23953
+    },
+    {
+        "owner": "feathericons",
+        "name": "feather",
+        "html_url": "https://github.com/feathericons/feather",
+        "stars": 23951
+    },
+    {
+        "owner": "vuejs",
+        "name": "devtools",
+        "html_url": "https://github.com/vuejs/devtools",
+        "stars": 23948
+    },
+    {
+        "owner": "getredash",
+        "name": "redash",
+        "html_url": "https://github.com/getredash/redash",
+        "stars": 23939
+    },
+    {
+        "owner": "charlax",
+        "name": "professional-programming",
+        "html_url": "https://github.com/charlax/professional-programming",
+        "stars": 23926
+    },
+    {
+        "owner": "taichi-dev",
+        "name": "taichi",
+        "html_url": "https://github.com/taichi-dev/taichi",
+        "stars": 23882
+    },
+    {
+        "owner": "Awesome-Windows",
+        "name": "Awesome",
+        "html_url": "https://github.com/Awesome-Windows/Awesome",
+        "stars": 23880
+    },
+    {
+        "owner": "nsqio",
+        "name": "nsq",
+        "html_url": "https://github.com/nsqio/nsq",
+        "stars": 23822
+    },
+    {
+        "owner": "expo",
+        "name": "expo",
+        "html_url": "https://github.com/expo/expo",
+        "stars": 23804
+    },
+    {
+        "owner": "vercel",
+        "name": "pkg",
+        "html_url": "https://github.com/vercel/pkg",
+        "stars": 23794
+    },
+    {
+        "owner": "CymChad",
+        "name": "BaseRecyclerViewAdapterHelper",
+        "html_url": "https://github.com/CymChad/BaseRecyclerViewAdapterHelper",
+        "stars": 23775
+    },
+    {
+        "owner": "datasciencemasters",
+        "name": "go",
+        "html_url": "https://github.com/datasciencemasters/go",
+        "stars": 23770
+    },
+    {
+        "owner": "mpv-player",
+        "name": "mpv",
+        "html_url": "https://github.com/mpv-player/mpv",
+        "stars": 23743
+    },
+    {
+        "owner": "mdbootstrap",
+        "name": "mdb-ui-kit",
+        "html_url": "https://github.com/mdbootstrap/mdb-ui-kit",
+        "stars": 23734
+    },
+    {
+        "owner": "matteocrippa",
+        "name": "awesome-swift",
+        "html_url": "https://github.com/matteocrippa/awesome-swift",
+        "stars": 23720
+    },
+    {
+        "owner": "hammerjs",
+        "name": "hammer.js",
+        "html_url": "https://github.com/hammerjs/hammer.js",
+        "stars": 23701
+    },
+    {
+        "owner": "MonitorControl",
+        "name": "MonitorControl",
+        "html_url": "https://github.com/MonitorControl/MonitorControl",
+        "stars": 23686
+    },
+    {
+        "owner": "angular",
+        "name": "components",
+        "html_url": "https://github.com/angular/components",
+        "stars": 23676
+    },
+    {
+        "owner": "Netflix",
+        "name": "Hystrix",
+        "html_url": "https://github.com/Netflix/Hystrix",
+        "stars": 23636
+    },
+    {
+        "owner": "calcom",
+        "name": "cal.com",
+        "html_url": "https://github.com/calcom/cal.com",
+        "stars": 23630
+    },
+    {
+        "owner": "VundleVim",
+        "name": "Vundle.vim",
+        "html_url": "https://github.com/VundleVim/Vundle.vim",
+        "stars": 23623
+    },
+    {
+        "owner": "ReactiveX",
+        "name": "RxSwift",
+        "html_url": "https://github.com/ReactiveX/RxSwift",
+        "stars": 23607
+    },
+    {
+        "owner": "deezer",
+        "name": "spleeter",
+        "html_url": "https://github.com/deezer/spleeter",
+        "stars": 23604
+    },
+    {
+        "owner": "google",
+        "name": "mediapipe",
+        "html_url": "https://github.com/google/mediapipe",
+        "stars": 23603
+    },
+    {
+        "owner": "nicolargo",
+        "name": "glances",
+        "html_url": "https://github.com/nicolargo/glances",
+        "stars": 23601
+    },
+    {
+        "owner": "ggerganov",
+        "name": "whisper.cpp",
+        "html_url": "https://github.com/ggerganov/whisper.cpp",
+        "stars": 23583
+    },
+    {
+        "owner": "openfaas",
+        "name": "faas",
+        "html_url": "https://github.com/openfaas/faas",
+        "stars": 23565
+    },
+    {
+        "owner": "doocs",
+        "name": "leetcode",
+        "html_url": "https://github.com/doocs/leetcode",
+        "stars": 23544
+    },
+    {
+        "owner": "mbadolato",
+        "name": "iTerm2-Color-Schemes",
+        "html_url": "https://github.com/mbadolato/iTerm2-Color-Schemes",
+        "stars": 23544
+    },
+    {
+        "owner": "aseprite",
+        "name": "aseprite",
+        "html_url": "https://github.com/aseprite/aseprite",
+        "stars": 23524
+    },
+    {
+        "owner": "matterport",
+        "name": "Mask_RCNN",
+        "html_url": "https://github.com/matterport/Mask_RCNN",
+        "stars": 23498
+    },
+    {
+        "owner": "backstage",
+        "name": "backstage",
+        "html_url": "https://github.com/backstage/backstage",
+        "stars": 23468
+    },
+    {
+        "owner": "eslint",
+        "name": "eslint",
+        "html_url": "https://github.com/eslint/eslint",
+        "stars": 23454
+    },
+    {
+        "owner": "alibaba",
+        "name": "flutter-go",
+        "html_url": "https://github.com/alibaba/flutter-go",
+        "stars": 23445
+    },
+    {
+        "owner": "ApolloAuto",
+        "name": "apollo",
+        "html_url": "https://github.com/ApolloAuto/apollo",
+        "stars": 23436
+    },
+    {
+        "owner": "heartcombo",
+        "name": "devise",
+        "html_url": "https://github.com/heartcombo/devise",
+        "stars": 23433
+    },
+    {
+        "owner": "StanGirard",
+        "name": "quivr",
+        "html_url": "https://github.com/StanGirard/quivr",
+        "stars": 23413
+    },
+    {
+        "owner": "directus",
+        "name": "directus",
+        "html_url": "https://github.com/directus/directus",
+        "stars": 23395
+    },
+    {
+        "owner": "doczjs",
+        "name": "docz",
+        "html_url": "https://github.com/doczjs/docz",
+        "stars": 23388
+    },
+    {
+        "owner": "gitlabhq",
+        "name": "gitlabhq",
+        "html_url": "https://github.com/gitlabhq/gitlabhq",
+        "stars": 23378
+    },
+    {
+        "owner": "nothings",
+        "name": "stb",
+        "html_url": "https://github.com/nothings/stb",
+        "stars": 23365
+    },
+    {
+        "owner": "neoclide",
+        "name": "coc.nvim",
+        "html_url": "https://github.com/neoclide/coc.nvim",
+        "stars": 23361
+    },
+    {
+        "owner": "milvus-io",
+        "name": "milvus",
+        "html_url": "https://github.com/milvus-io/milvus",
+        "stars": 23355
+    },
+    {
+        "owner": "sirupsen",
+        "name": "logrus",
+        "html_url": "https://github.com/sirupsen/logrus",
+        "stars": 23309
+    },
+    {
+        "owner": "ramda",
+        "name": "ramda",
+        "html_url": "https://github.com/ramda/ramda",
+        "stars": 23298
+    },
+    {
+        "owner": "microsoft",
+        "name": "cascadia-code",
+        "html_url": "https://github.com/microsoft/cascadia-code",
+        "stars": 23270
+    },
+    {
+        "owner": "python-telegram-bot",
+        "name": "python-telegram-bot",
+        "html_url": "https://github.com/python-telegram-bot/python-telegram-bot",
+        "stars": 23266
+    },
+    {
+        "owner": "penpot",
+        "name": "penpot",
+        "html_url": "https://github.com/penpot/penpot",
+        "stars": 23259
+    },
+    {
+        "owner": "viatsko",
+        "name": "awesome-vscode",
+        "html_url": "https://github.com/viatsko/awesome-vscode",
+        "stars": 23251
+    },
+    {
+        "owner": "inconshreveable",
+        "name": "ngrok",
+        "html_url": "https://github.com/inconshreveable/ngrok",
+        "stars": 23250
+    },
+    {
+        "owner": "syl20bnr",
+        "name": "spacemacs",
+        "html_url": "https://github.com/syl20bnr/spacemacs",
+        "stars": 23238
+    },
+    {
+        "owner": "rwaldron",
+        "name": "idiomatic.js",
+        "html_url": "https://github.com/rwaldron/idiomatic.js",
+        "stars": 23233
+    },
+    {
+        "owner": "vapor",
+        "name": "vapor",
+        "html_url": "https://github.com/vapor/vapor",
+        "stars": 23233
+    },
+    {
+        "owner": "dimsemenov",
+        "name": "PhotoSwipe",
+        "html_url": "https://github.com/dimsemenov/PhotoSwipe",
+        "stars": 23230
+    },
+    {
+        "owner": "Wox-launcher",
+        "name": "Wox",
+        "html_url": "https://github.com/Wox-launcher/Wox",
+        "stars": 23204
+    },
+    {
+        "owner": "xinntao",
+        "name": "Real-ESRGAN",
+        "html_url": "https://github.com/xinntao/Real-ESRGAN",
+        "stars": 23181
+    },
+    {
+        "owner": "kahun",
+        "name": "awesome-sysadmin",
+        "html_url": "https://github.com/kahun/awesome-sysadmin",
+        "stars": 23178
+    },
+    {
+        "owner": "pure-css",
+        "name": "pure",
+        "html_url": "https://github.com/pure-css/pure",
+        "stars": 23176
+    },
+    {
+        "owner": "vercel",
+        "name": "turbo",
+        "html_url": "https://github.com/vercel/turbo",
+        "stars": 23158
+    },
+    {
+        "owner": "mozilla",
+        "name": "DeepSpeech",
+        "html_url": "https://github.com/mozilla/DeepSpeech",
+        "stars": 23136
+    },
+    {
+        "owner": "withfig",
+        "name": "autocomplete",
+        "html_url": "https://github.com/withfig/autocomplete",
+        "stars": 23121
+    },
+    {
+        "owner": "localForage",
+        "name": "localForage",
+        "html_url": "https://github.com/localForage/localForage",
+        "stars": 23095
+    },
+    {
+        "owner": "freqtrade",
+        "name": "freqtrade",
+        "html_url": "https://github.com/freqtrade/freqtrade",
+        "stars": 23091
+    },
+    {
+        "owner": "huiyadanli",
+        "name": "RevokeMsgPatcher",
+        "html_url": "https://github.com/huiyadanli/RevokeMsgPatcher",
+        "stars": 23088
+    },
+    {
+        "owner": "zloirock",
+        "name": "core-js",
+        "html_url": "https://github.com/zloirock/core-js",
+        "stars": 23067
+    },
+    {
+        "owner": "NativeScript",
+        "name": "NativeScript",
+        "html_url": "https://github.com/NativeScript/NativeScript",
+        "stars": 23049
+    },
+    {
+        "owner": "StreisandEffect",
+        "name": "streisand",
+        "html_url": "https://github.com/StreisandEffect/streisand",
+        "stars": 23041
+    },
+    {
+        "owner": "OpenZeppelin",
+        "name": "openzeppelin-contracts",
+        "html_url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+        "stars": 23037
+    },
+    {
+        "owner": "Igglybuff",
+        "name": "awesome-piracy",
+        "html_url": "https://github.com/Igglybuff/awesome-piracy",
+        "stars": 23028
+    },
+    {
+        "owner": "android",
+        "name": "architecture-components-samples",
+        "html_url": "https://github.com/android/architecture-components-samples",
+        "stars": 23015
+    },
+    {
+        "owner": "keon",
+        "name": "algorithms",
+        "html_url": "https://github.com/keon/algorithms",
+        "stars": 23012
+    },
+    {
+        "owner": "google-research",
+        "name": "tuning_playbook",
+        "html_url": "https://github.com/google-research/tuning_playbook",
+        "stars": 23003
+    },
+    {
+        "owner": "reduxjs",
+        "name": "react-redux",
+        "html_url": "https://github.com/reduxjs/react-redux",
+        "stars": 22988
+    },
+    {
+        "owner": "yeasy",
+        "name": "docker_practice",
+        "html_url": "https://github.com/yeasy/docker_practice",
+        "stars": 22984
+    },
+    {
+        "owner": "marmelab",
+        "name": "react-admin",
+        "html_url": "https://github.com/marmelab/react-admin",
+        "stars": 22983
+    },
+    {
+        "owner": "spacedriveapp",
+        "name": "spacedrive",
+        "html_url": "https://github.com/spacedriveapp/spacedrive",
+        "stars": 22952
+    },
+    {
+        "owner": "CodeHubApp",
+        "name": "CodeHub",
+        "html_url": "https://github.com/CodeHubApp/CodeHub",
+        "stars": 22952
+    },
+    {
+        "owner": "tmrts",
+        "name": "go-patterns",
+        "html_url": "https://github.com/tmrts/go-patterns",
+        "stars": 22937
+    },
+    {
+        "owner": "Asabeneh",
+        "name": "30-Days-Of-React",
+        "html_url": "https://github.com/Asabeneh/30-Days-Of-React",
+        "stars": 22937
+    },
+    {
+        "owner": "zadam",
+        "name": "trilium",
+        "html_url": "https://github.com/zadam/trilium",
+        "stars": 22853
+    },
+    {
+        "owner": "surrealdb",
+        "name": "surrealdb",
+        "html_url": "https://github.com/surrealdb/surrealdb",
+        "stars": 22847
+    },
+    {
+        "owner": "envoyproxy",
+        "name": "envoy",
+        "html_url": "https://github.com/envoyproxy/envoy",
+        "stars": 22828
+    },
+    {
+        "owner": "FuelLabs",
+        "name": "fuel-core",
+        "html_url": "https://github.com/FuelLabs/fuel-core",
+        "stars": 22820
+    },
+    {
+        "owner": "openssl",
+        "name": "openssl",
+        "html_url": "https://github.com/openssl/openssl",
+        "stars": 22813
+    },
+    {
+        "owner": "hwdsl2",
+        "name": "setup-ipsec-vpn",
+        "html_url": "https://github.com/hwdsl2/setup-ipsec-vpn",
+        "stars": 22806
+    },
+    {
+        "owner": "zyedidia",
+        "name": "micro",
+        "html_url": "https://github.com/zyedidia/micro",
+        "stars": 22795
+    },
+    {
+        "owner": "github",
+        "name": "copilot-docs",
+        "html_url": "https://github.com/github/copilot-docs",
+        "stars": 22794
+    },
+    {
+        "owner": "telegramdesktop",
+        "name": "tdesktop",
+        "html_url": "https://github.com/telegramdesktop/tdesktop",
+        "stars": 22789
+    },
+    {
+        "owner": "ossrs",
+        "name": "srs",
+        "html_url": "https://github.com/ossrs/srs",
+        "stars": 22780
+    },
+    {
+        "owner": "react-navigation",
+        "name": "react-navigation",
+        "html_url": "https://github.com/react-navigation/react-navigation",
+        "stars": 22778
+    },
+    {
+        "owner": "sdras",
+        "name": "awesome-actions",
+        "html_url": "https://github.com/sdras/awesome-actions",
+        "stars": 22768
+    },
+    {
+        "owner": "gchq",
+        "name": "CyberChef",
+        "html_url": "https://github.com/gchq/CyberChef",
+        "stars": 22762
+    },
+    {
+        "owner": "MostlyAdequate",
+        "name": "mostly-adequate-guide",
+        "html_url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
+        "stars": 22738
+    },
+    {
+        "owner": "DrKLO",
+        "name": "Telegram",
+        "html_url": "https://github.com/DrKLO/Telegram",
+        "stars": 22728
+    },
+    {
+        "owner": "guzzle",
+        "name": "guzzle",
+        "html_url": "https://github.com/guzzle/guzzle",
+        "stars": 22727
+    },
+    {
+        "owner": "Vision-CAIR",
+        "name": "MiniGPT-4",
+        "html_url": "https://github.com/Vision-CAIR/MiniGPT-4",
+        "stars": 22694
+    },
+    {
+        "owner": "microsoft",
+        "name": "Data-Science-For-Beginners",
+        "html_url": "https://github.com/microsoft/Data-Science-For-Beginners",
+        "stars": 22692
+    },
+    {
+        "owner": "ogham",
+        "name": "exa",
+        "html_url": "https://github.com/ogham/exa",
+        "stars": 22685
+    },
+    {
+        "owner": "firecracker-microvm",
+        "name": "firecracker",
+        "html_url": "https://github.com/firecracker-microvm/firecracker",
+        "stars": 22678
+    },
+    {
+        "owner": "balderdashy",
+        "name": "sails",
+        "html_url": "https://github.com/balderdashy/sails",
+        "stars": 22655
+    },
+    {
+        "owner": "toeverything",
+        "name": "AFFiNE",
+        "html_url": "https://github.com/toeverything/AFFiNE",
+        "stars": 22619
+    },
+    {
+        "owner": "TanStack",
+        "name": "table",
+        "html_url": "https://github.com/TanStack/table",
+        "stars": 22608
+    },
+    {
+        "owner": "gradio-app",
+        "name": "gradio",
+        "html_url": "https://github.com/gradio-app/gradio",
+        "stars": 22545
+    },
+    {
+        "owner": "mislav",
+        "name": "hub",
+        "html_url": "https://github.com/mislav/hub",
+        "stars": 22540
+    },
+    {
+        "owner": "ovity",
+        "name": "octotree",
+        "html_url": "https://github.com/ovity/octotree",
+        "stars": 22535
+    },
+    {
+        "owner": "facebookarchive",
+        "name": "draft-js",
+        "html_url": "https://github.com/facebookarchive/draft-js",
+        "stars": 22492
+    },
+    {
+        "owner": "google",
+        "name": "gson",
+        "html_url": "https://github.com/google/gson",
+        "stars": 22491
+    },
+    {
+        "owner": "redux-saga",
+        "name": "redux-saga",
+        "html_url": "https://github.com/redux-saga/redux-saga",
+        "stars": 22487
+    },
+    {
+        "owner": "apache",
+        "name": "skywalking",
+        "html_url": "https://github.com/apache/skywalking",
+        "stars": 22484
+    },
+    {
+        "owner": "derailed",
+        "name": "k9s",
+        "html_url": "https://github.com/derailed/k9s",
+        "stars": 22467
+    },
+    {
+        "owner": "homebridge",
+        "name": "homebridge",
+        "html_url": "https://github.com/homebridge/homebridge",
+        "stars": 22461
+    },
+    {
+        "owner": "fouber",
+        "name": "blog",
+        "html_url": "https://github.com/fouber/blog",
+        "stars": 22461
+    },
+    {
+        "owner": "rxhanson",
+        "name": "Rectangle",
+        "html_url": "https://github.com/rxhanson/Rectangle",
+        "stars": 22454
+    },
+    {
+        "owner": "emberjs",
+        "name": "ember.js",
+        "html_url": "https://github.com/emberjs/ember.js",
+        "stars": 22448
+    },
+    {
+        "owner": "eriklindernoren",
+        "name": "ML-From-Scratch",
+        "html_url": "https://github.com/eriklindernoren/ML-From-Scratch",
+        "stars": 22445
+    },
+    {
+        "owner": "chubin",
+        "name": "wttr.in",
+        "html_url": "https://github.com/chubin/wttr.in",
+        "stars": 22406
+    },
+    {
+        "owner": "bilibili",
+        "name": "flv.js",
+        "html_url": "https://github.com/bilibili/flv.js",
+        "stars": 22402
+    },
+    {
+        "owner": "tokio-rs",
+        "name": "tokio",
+        "html_url": "https://github.com/tokio-rs/tokio",
+        "stars": 22395
+    },
+    {
+        "owner": "goldbergyoni",
+        "name": "javascript-testing-best-practices",
+        "html_url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+        "stars": 22391
+    },
+    {
+        "owner": "fish-shell",
+        "name": "fish-shell",
+        "html_url": "https://github.com/fish-shell/fish-shell",
+        "stars": 22390
+    },
+    {
+        "owner": "dapr",
+        "name": "dapr",
+        "html_url": "https://github.com/dapr/dapr",
+        "stars": 22385
+    },
+    {
+        "owner": "tailwindlabs",
+        "name": "headlessui",
+        "html_url": "https://github.com/tailwindlabs/headlessui",
+        "stars": 22383
+    },
+    {
+        "owner": "run-llama",
+        "name": "llama_index",
+        "html_url": "https://github.com/run-llama/llama_index",
+        "stars": 22355
+    },
+    {
+        "owner": "RedisInsight",
+        "name": "RedisDesktopManager",
+        "html_url": "https://github.com/RedisInsight/RedisDesktopManager",
+        "stars": 22343
+    },
+    {
+        "owner": "celery",
+        "name": "celery",
+        "html_url": "https://github.com/celery/celery",
+        "stars": 22329
+    },
+    {
+        "owner": "ipfs",
+        "name": "ipfs",
+        "html_url": "https://github.com/ipfs/ipfs",
+        "stars": 22305
+    },
+    {
+        "owner": "t4t5",
+        "name": "sweetalert",
+        "html_url": "https://github.com/t4t5/sweetalert",
+        "stars": 22299
+    },
+    {
+        "owner": "libuv",
+        "name": "libuv",
+        "html_url": "https://github.com/libuv/libuv",
+        "stars": 22285
+    },
+    {
+        "owner": "Tencent",
+        "name": "wepy",
+        "html_url": "https://github.com/Tencent/wepy",
+        "stars": 22282
+    },
+    {
+        "owner": "markerikson",
+        "name": "react-redux-links",
+        "html_url": "https://github.com/markerikson/react-redux-links",
+        "stars": 22274
+    },
+    {
+        "owner": "locustio",
+        "name": "locust",
+        "html_url": "https://github.com/locustio/locust",
+        "stars": 22264
+    },
+    {
+        "owner": "conwnet",
+        "name": "github1s",
+        "html_url": "https://github.com/conwnet/github1s",
+        "stars": 22246
+    },
+    {
+        "owner": "qbittorrent",
+        "name": "qBittorrent",
+        "html_url": "https://github.com/qbittorrent/qBittorrent",
+        "stars": 22244
+    },
+    {
+        "owner": "wangzheng0822",
+        "name": "algo",
+        "html_url": "https://github.com/wangzheng0822/algo",
+        "stars": 22241
+    },
+    {
+        "owner": "usablica",
+        "name": "intro.js",
+        "html_url": "https://github.com/usablica/intro.js",
+        "stars": 22239
+    },
+    {
+        "owner": "llvm",
+        "name": "llvm-project",
+        "html_url": "https://github.com/llvm/llvm-project",
+        "stars": 22236
+    },
+    {
+        "owner": "iawia002",
+        "name": "lux",
+        "html_url": "https://github.com/iawia002/lux",
+        "stars": 22225
+    },
+    {
+        "owner": "mochajs",
+        "name": "mocha",
+        "html_url": "https://github.com/mochajs/mocha",
+        "stars": 22222
+    },
+    {
+        "owner": "kriasoft",
+        "name": "react-starter-kit",
+        "html_url": "https://github.com/kriasoft/react-starter-kit",
+        "stars": 22183
+    },
+    {
+        "owner": "kdeldycke",
+        "name": "awesome-falsehood",
+        "html_url": "https://github.com/kdeldycke/awesome-falsehood",
+        "stars": 22180
+    },
+    {
+        "owner": "jumpserver",
+        "name": "jumpserver",
+        "html_url": "https://github.com/jumpserver/jumpserver",
+        "stars": 22180
+    },
+    {
+        "owner": "datawhalechina",
+        "name": "pumpkin-book",
+        "html_url": "https://github.com/datawhalechina/pumpkin-book",
+        "stars": 22177
+    },
+    {
+        "owner": "SwiftyJSON",
+        "name": "SwiftyJSON",
+        "html_url": "https://github.com/SwiftyJSON/SwiftyJSON",
+        "stars": 22147
+    },
+    {
+        "owner": "elixir-lang",
+        "name": "elixir",
+        "html_url": "https://github.com/elixir-lang/elixir",
+        "stars": 22145
+    },
+    {
+        "owner": "highlightjs",
+        "name": "highlight.js",
+        "html_url": "https://github.com/highlightjs/highlight.js",
+        "stars": 22142
+    },
+    {
+        "owner": "goldfire",
+        "name": "howler.js",
+        "html_url": "https://github.com/goldfire/howler.js",
+        "stars": 22131
+    },
+    {
+        "owner": "libgdx",
+        "name": "libgdx",
+        "html_url": "https://github.com/libgdx/libgdx",
+        "stars": 22059
+    },
+    {
+        "owner": "apache",
+        "name": "flink",
+        "html_url": "https://github.com/apache/flink",
+        "stars": 22058
+    },
+    {
+        "owner": "facebook",
+        "name": "flow",
+        "html_url": "https://github.com/facebook/flow",
+        "stars": 22012
+    },
+    {
+        "owner": "bigskysoftware",
+        "name": "htmx",
+        "html_url": "https://github.com/bigskysoftware/htmx",
+        "stars": 22012
+    },
+    {
+        "owner": "requarks",
+        "name": "wiki",
+        "html_url": "https://github.com/requarks/wiki",
+        "stars": 22009
+    },
+    {
+        "owner": "youzan",
+        "name": "vant",
+        "html_url": "https://github.com/youzan/vant",
+        "stars": 22005
+    },
+    {
+        "owner": "react-bootstrap",
+        "name": "react-bootstrap",
+        "html_url": "https://github.com/react-bootstrap/react-bootstrap",
+        "stars": 21976
+    },
+    {
+        "owner": "notable",
+        "name": "notable",
+        "html_url": "https://github.com/notable/notable",
+        "stars": 21972
+    },
+    {
+        "owner": "tsenart",
+        "name": "vegeta",
+        "html_url": "https://github.com/tsenart/vegeta",
+        "stars": 21966
+    },
+    {
+        "owner": "Polymer",
+        "name": "polymer",
+        "html_url": "https://github.com/Polymer/polymer",
+        "stars": 21963
+    },
+    {
+        "owner": "academic",
+        "name": "awesome-datascience",
+        "html_url": "https://github.com/academic/awesome-datascience",
+        "stars": 21957
+    },
+    {
+        "owner": "felixrieseberg",
+        "name": "windows95",
+        "html_url": "https://github.com/felixrieseberg/windows95",
+        "stars": 21947
+    },
+    {
+        "owner": "harvesthq",
+        "name": "chosen",
+        "html_url": "https://github.com/harvesthq/chosen",
+        "stars": 21947
+    },
+    {
+        "owner": "microsoft",
+        "name": "JARVIS",
+        "html_url": "https://github.com/microsoft/JARVIS",
+        "stars": 21943
+    },
+    {
+        "owner": "electron-react-boilerplate",
+        "name": "electron-react-boilerplate",
+        "html_url": "https://github.com/electron-react-boilerplate/electron-react-boilerplate",
+        "stars": 21933
+    },
+    {
+        "owner": "sebastianruder",
+        "name": "NLP-progress",
+        "html_url": "https://github.com/sebastianruder/NLP-progress",
+        "stars": 21930
+    },
+    {
+        "owner": "vuejs",
+        "name": "vuepress",
+        "html_url": "https://github.com/vuejs/vuepress",
+        "stars": 21929
+    },
+    {
+        "owner": "microsoft",
+        "name": "api-guidelines",
+        "html_url": "https://github.com/microsoft/api-guidelines",
+        "stars": 21913
+    },
+    {
+        "owner": "vnpy",
+        "name": "vnpy",
+        "html_url": "https://github.com/vnpy/vnpy",
+        "stars": 21899
+    },
+    {
+        "owner": "validatorjs",
+        "name": "validator.js",
+        "html_url": "https://github.com/validatorjs/validator.js",
+        "stars": 21882
+    },
+    {
+        "owner": "redisson",
+        "name": "redisson",
+        "html_url": "https://github.com/redisson/redisson",
+        "stars": 21874
+    },
+    {
+        "owner": "mxgmn",
+        "name": "WaveFunctionCollapse",
+        "html_url": "https://github.com/mxgmn/WaveFunctionCollapse",
+        "stars": 21868
+    },
+    {
+        "owner": "VSCodium",
+        "name": "vscodium",
+        "html_url": "https://github.com/VSCodium/vscodium",
+        "stars": 21859
+    },
+    {
+        "owner": "dracula",
+        "name": "dracula-theme",
+        "html_url": "https://github.com/dracula/dracula-theme",
+        "stars": 21856
+    },
+    {
+        "owner": "changkun",
+        "name": "modern-cpp-tutorial",
+        "html_url": "https://github.com/changkun/modern-cpp-tutorial",
+        "stars": 21856
+    },
+    {
+        "owner": "norvig",
+        "name": "pytudes",
+        "html_url": "https://github.com/norvig/pytudes",
+        "stars": 21855
+    },
+    {
+        "owner": "trekhleb",
+        "name": "homemade-machine-learning",
+        "html_url": "https://github.com/trekhleb/homemade-machine-learning",
+        "stars": 21855
+    },
+    {
+        "owner": "jaredhanson",
+        "name": "passport",
+        "html_url": "https://github.com/jaredhanson/passport",
+        "stars": 21847
+    },
+    {
+        "owner": "refined-github",
+        "name": "refined-github",
+        "html_url": "https://github.com/refined-github/refined-github",
+        "stars": 21838
+    },
+    {
+        "owner": "kuchin",
+        "name": "awesome-cto",
+        "html_url": "https://github.com/kuchin/awesome-cto",
+        "stars": 21826
+    },
+    {
+        "owner": "flameshot-org",
+        "name": "flameshot",
+        "html_url": "https://github.com/flameshot-org/flameshot",
+        "stars": 21813
+    },
+    {
+        "owner": "ai",
+        "name": "nanoid",
+        "html_url": "https://github.com/ai/nanoid",
+        "stars": 21805
+    },
+    {
+        "owner": "taosdata",
+        "name": "TDengine",
+        "html_url": "https://github.com/taosdata/TDengine",
+        "stars": 21789
+    },
+    {
+        "owner": "v8",
+        "name": "v8",
+        "html_url": "https://github.com/v8/v8",
+        "stars": 21788
+    },
+    {
+        "owner": "google",
+        "name": "iosched",
+        "html_url": "https://github.com/google/iosched",
+        "stars": 21785
+    },
+    {
+        "owner": "jlmakes",
+        "name": "scrollreveal",
+        "html_url": "https://github.com/jlmakes/scrollreveal",
+        "stars": 21779
+    },
+    {
+        "owner": "bitcoinbook",
+        "name": "bitcoinbook",
+        "html_url": "https://github.com/bitcoinbook/bitcoinbook",
+        "stars": 21760
+    },
+    {
+        "owner": "gfwlist",
+        "name": "gfwlist",
+        "html_url": "https://github.com/gfwlist/gfwlist",
+        "stars": 21730
+    },
+    {
+        "owner": "robertdavidgraham",
+        "name": "masscan",
+        "html_url": "https://github.com/robertdavidgraham/masscan",
+        "stars": 21720
+    },
+    {
+        "owner": "mantinedev",
+        "name": "mantine",
+        "html_url": "https://github.com/mantinedev/mantine",
+        "stars": 21702
+    }
+]
